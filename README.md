@@ -1,4 +1,4 @@
-# Rock Talk: High-Signal Human-AI Alignment
+# Rock Talk v1.0: High-Signal Human-AI Alignment
 
 ```
 Me Senior Software Engineer.
