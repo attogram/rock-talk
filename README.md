@@ -1,7 +1,7 @@
 # Rock Talk: High-Signal Human-AI Alignment
 
 ```
-Me Senior Software Developer.
+Me Senior Software Engineer.
 Me work hard.
 Me trust smartrock.
 Me make change.
@@ -16,7 +16,7 @@ Me curse at smartrock.
 
     What the F*** DUDE?!? 
     STOP! STOP!!! 
-    Shut the F*** up and just tell me what you changed. 
+    Shut the F*** up and just f***ing tell me what you changed. 
     Pretend like I'm a stupid caveman and just tell me.
 
 Rock talk is born.
