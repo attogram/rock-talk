@@ -23,15 +23,15 @@ Rock talk is born.
    (After Action Report, Attogram, 2026)
 ```
 
-[**Full Academic Paper**](rock-talk.md)
+[Full Academic Paper](rock-talk.md)
 
-[**Examples**](examples/)
+[Examples](examples/)
 
 Cultural References:
-- [**Kevin Malone: Small Talk**](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick." (NBC Official)
-- [**Pakleds**](https://www.youtube.com/watch?v=AIsZ83fTivM](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go." (UNOFFICIAL)
-- [**FAA Pilot/Controller Glossary**](https://www.faa.gov/air_traffic/publications/media/pcg_10-12-17.pdf) — Real-world high-signal protocol for mission-critical safety.
+- [Kevin Malone: Small Talk](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick." (NBC Official)
+- [Pakleds: Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go." (UNOFFICIAL)
+- [FAA Pilot/Controller Glossary](https://www.faa.gov/air_traffic/publications/media/pcg_10-12-17.pdf) — Real-world high-signal protocol for mission-critical safety.
 
-Maintained by **Attogram**. 
+Maintained by Attogram. 
 
 Feedback via [Issues](https://github.com/attogram/rock-talk/issues) and Pull Requests
