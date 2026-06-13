@@ -23,7 +23,7 @@ Rock talk is born.
    (After Action Report, Attogram, 2026)
 ```
 
-[Full Academic Paper](rock-talk.md)
+[Rock Talk 1.0: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination](rock-talk.md)
 
 [Examples](examples/)
 
