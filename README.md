@@ -1,4 +1,4 @@
-# Rock Talk: High-Signal Human-AI Alignment, LLM Token Efficiency
+# Rock Talk: High-Signal Human-AI Alignment
 
 ```
 Me software developer. 
