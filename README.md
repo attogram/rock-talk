@@ -1,7 +1,7 @@
 # Rock Talk: High-Signal Human-AI Alignment
 
 ```
-Me software developer.
+Me Senior Software Developer.
 Me work hard.
 Me trust smartrock.
 Me make change.
@@ -10,13 +10,14 @@ Me push to production.
 Me sad.
 Boss angry.
 Client lose money.
-Me mad at smartrock.
+Me use smartrock.
+Smartrock talk talk talk.
 Me curse at smartrock.
 
-What the F*** DUDE?!?
-STOP! STOP!!!
-Shut the F*** up and just tell me what you changed.
-Pretend like I'm a stupid caveman and just tell me.
+    What the F*** DUDE?!? 
+    STOP! STOP!!! 
+    Shut the F*** up and just tell me what you changed. 
+    Pretend like I'm a stupid caveman and just tell me.
 
 Rock talk is born.
 
