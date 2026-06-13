@@ -13,7 +13,7 @@ While superficially resembling "simplified" or "primitive" speech, Rock Talk is 
 
 ## Documentation and Examples
 
-- [**Rock Talk: A High-Signal Communication Protocol**](rock-talk.md): A full academic-style paper (side-by-side comparison) detailing the theory and application of the protocol.
+- [**Rock Talk: A High-Signal Communication Protocol for Human-AI Alignment, LLM Efficiency, and Agentic Coordination**](rock-talk.md): A full academic-style paper (side-by-side comparison) detailing the theory and application of the protocol.
 - [**Examples**](examples/):
   - [Universal Declaration of Human Rights](examples/un-declaration.md)
   - [Declaration of Independence (USA)](examples/declaration-of-independence.md)

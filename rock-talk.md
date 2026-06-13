@@ -1,4 +1,4 @@
-# Rock Talk: A High-Signal Communication Protocol
+# Rock Talk: A High-Signal Communication Protocol for Human-AI Alignment, LLM Efficiency, and Agentic Coordination
 
 **Author:** Attogram
 **Date:** June 2026
