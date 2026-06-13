@@ -29,7 +29,7 @@ Rock talk is born.
 
 Cultural References:
 - [**Kevin Malone: Small Talk**](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick." (NBC Official)
-- [**Pakleds**]([https://www.youtube.com/watch?v=AIsZ83fTivM](https://www.youtube.com/watch?v=h7PZKzKPFfE)) — "We look for things. Things to make us go." (UNOFFICIAL)
+- [**Pakleds**](https://www.youtube.com/watch?v=AIsZ83fTivM](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go." (UNOFFICIAL)
 - [**FAA Pilot/Controller Glossary**](https://www.faa.gov/air_traffic/publications/media/pcg_10-12-17.pdf) — Real-world high-signal protocol for mission-critical safety.
 
 Maintained by **Attogram**. 
