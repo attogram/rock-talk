@@ -23,15 +23,13 @@ Rock talk is born.
    (After Action Report, Attogram, 2026)
 ```
 
-[Rock Talk 1.0: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination](rock-talk.md)
-
-[Examples](examples/)
-
-Cultural References:
-- [Kevin Malone: Small Talk](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick." (NBC Official)
-- [Pakleds: Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go." (UNOFFICIAL)
-- [FAA Pilot/Controller Glossary](https://www.faa.gov/air_traffic/publications/media/pcg_10-12-17.pdf) — Real-world high-signal protocol for mission-critical safety.
-
-Maintained by Attogram. 
-
-Feedback via [Issues](https://github.com/attogram/rock-talk/issues) and Pull Requests
+- [Rock Talk 1.0: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination](rock-talk.md)
+- [Rock Talk Examples](examples/)
+- Cultural References:
+  - [Kevin Malone: Small Talk](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick." (NBC Official)
+  - [Pakleds: Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go." (UNOFFICIAL)
+  - [FAA Pilot/Controller Glossary](https://www.faa.gov/air_traffic/publications/media/pcg_10-12-17.pdf) — Real-world high-signal protocol for mission-critical safety.
+  - [Tarzan](https://www.youtube.com/watch?v=kcaj7Au1GfQ)
+  - [Quest for Fire](https://www.youtube.com/watch?v=lJVOTT8N2zM)
+- Maintained by Attogram. 
+  - Feedback via [Issues](https://github.com/attogram/rock-talk/issues) and Pull Requests
