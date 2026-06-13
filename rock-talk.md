@@ -47,7 +47,7 @@
 | **12. Conclusion** | **12. Conclusion** |
 | Rock Talk 1.0 is proposed as a robust framework for high-signal communication. Future research will quantify the reduction in cognitive load and the improvement in LLM accuracy when this protocol is applied systematically across diverse linguistic datasets. | Rock Talk 1.0 works. High signal. Next: Measure brain load, model accuracy. |
 | **References** | **References** |
-| Attogram. (2026). *After Action Report: Incident #882-Alpha.* Internal Technical Archive. | Attogram 2026. *AAR.* |
+| Attogram. (2026). *After Action Report* Internal Technical Archive. | Attogram 2026. *AAR.* |
 | Brown, T. B., et al. (2020). *Language Models are Few-Shot Learners.* arXiv:2005.14165. | Brown et al. 2020. *Few-Shot Learners.* |
 | Burroughs, E. R. (1912). *Tarzan of the Apes.* All-Story Magazine. | Burroughs. 1912. *Tarzan.* |
 | Clark, H. H. (1996). *Using Language.* Cambridge University Press. | Clark. 1996. *Language Use.* |
