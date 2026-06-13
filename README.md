@@ -10,12 +10,16 @@ Rock Talk is a high-signal communication protocol designed to optimize informati
 - [**Full Academic Paper**](rock-talk.md) — Theory, archetypes, and economic implications.
 - [**Examples**](examples/) — Rock Talk applied to the UN Declaration, General Relativity, and more.
 - [**Agentic Coordination**](examples/agentic-coordination.md) — Preventing semantic drift in Multi-Agent Systems.
+- [**Claude Caveman Skill**](https://claudemarketplaces.com/skills/juliusbrussee/caveman/caveman) — One-sided implementation for Claude Code.
 
 ## Media and Case Studies
 
 - [**Kevin Malone: Small Talk**](https://www.youtube.com/watch?v=_K-L9uhsBLM) — "Why waste time say lot word, when few word do trick." (NBC Official)
 - [**The Pakleds: Deceptive Simplicity**](https://www.youtube.com/watch?v=AIsZ83fTivM) — "We look for things. Things to make us go."
-- [**FAA Pilot/Controller Glossary**](https://www.faa.gov/air_traffic/publications/media/pcg_10-12-17.pdf) — Real-world high-signal protocol for mission-critical safety.
+- [**The Cytherians: Absolute Efficiency**](https://www.youtube.com/watch?v=MaKrMf3WTOM&t=40s) — "We have a great desire to meet you."
+- [**The Flintstones: Ooga Booga Fallacy**](https://www.youtube.com/watch?v=kcaj7Au1GfQ&t=50s) — "Yabba Dabba Doo" (Phatic noise).
+- [**FAA Pilot/Controller Glossary**](https://www.faa.gov/air_traffic/publications/media/PCG_Bsc_w_Chg_1_and_2_dtd_1-22-26.pdf) — Real-world high-signal protocol for mission-critical safety.
+- [**ALSSA Brevity Codes**](https://www.alssa.mil/mttps/brevity/) — Multi-service standardized "payload" delivery.
 
 ## Principles
 
