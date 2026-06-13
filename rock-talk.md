@@ -87,11 +87,28 @@ Traditional conversational debugging proved too high-latency for the rapidly cas
 
 This incident is formally documented as follows:
 
-> “Me software developer. Me work hard. Me trust smartrock. Me make change. Me push to production. 500 error.
-> Me sad. Boss angry. Client lose money. Me mad at smartrock. Me curse at smartrock. 'What the F*** DUDE?!?
-> STOP! STOP!!! Shut the F*** up and just tell me what you changed. Pretend like I'm a stupid caveman and just tell
-me.'
-> Rock talk is born.” (After Action Report, Attogram, 2026).
+```
+Me Senior Software Engineer.
+Me work hard.
+Me trust smartrock.
+Me make change.
+Me push to production.
+500 error.
+Me sad.
+Boss angry.
+Client lose money.
+Me use smartrock.
+Smartrock talk talk talk.
+Me curse at smartrock.
+
+    What the F*** DUDE?!? 
+    STOP! STOP!!! 
+    Shut the F*** up and just f***ing tell me what you changed. 
+    Pretend like I'm a stupid caveman and just tell me.
+
+Rock talk is born.
+```
+(After Action Report, Attogram, 2026).
 
 This primary source highlights the shift from "social" to "functional" language under extreme technical pressure
 (Saito, 2023; Li, 2024).
