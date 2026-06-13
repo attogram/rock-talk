@@ -1,4 +1,4 @@
-# Rock Talk: Cutting LLM Semantic Noise for 30% Token Savings
+# Rock Talk: High-Signal Human-AI Alignment, LLM Token Efficiency
 
 ```
 Me software developer. 
