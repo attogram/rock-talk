@@ -1,12 +1,18 @@
 # Example: Token Cost-Efficiency Analysis
 
-This example demonstrates the hypothesis that Rock Talk reduces token consumption and API costs while maintaining (or improving) semantic clarity.
+This example demonstrates the hypothesis that Rock Talk reduces token consumption and API costs while maintaining (or
+improving) semantic clarity.
 
 ## Scenario: Complex System Architect Instruction
 
 | Standard Prose (Instruction) | Rock Talk (Instruction) |
 | :--- | :--- |
-| "I would like you to act as a senior systems architect. We are designing a new microservices architecture for a high-traffic e-commerce platform. I need you to evaluate whether we should use a synchronous REST approach or an asynchronous event-driven architecture using something like Kafka. Please consider latency, data consistency, and system complexity in your analysis, and give me a recommendation on which one would be better for scaling to 1 million users per day." | Role: Senior Architect. Context: E-commerce microservices. Task: Compare Sync REST vs Async Event (Kafka). Metrics: Latency, Consistency, Complexity. Goal: Scale to 1M daily users. Recommend best. |
+| "I would like you to act as a senior systems architect. We are designing a new microservices architecture for a
+high-traffic e-commerce platform. I need you to evaluate whether we should use a synchronous REST approach or an
+asynchronous event-driven architecture using something like Kafka. Please consider latency, data consistency, and
+system complexity in your analysis, and give me a recommendation on which one would be better for scaling to 1 million
+users per day." | Role: Senior Architect. Context: E-commerce microservices. Task: Compare Sync REST vs Async Event
+(Kafka). Metrics: Latency, Consistency, Complexity. Goal: Scale to 1M daily users. Recommend best. |
 
 ## Comparative Metrics (Hypothetical)
 
@@ -19,6 +25,10 @@ This example demonstrates the hypothesis that Rock Talk reduces token consumptio
 
 ### Analysis
 
-1. **Information Loss**: Zero. All core constraints (1M users, latency/consistency/complexity, REST vs Kafka) are preserved.
-2. **Model Attention**: In the Standard Prose version, the model must "attend" to social fillers like "I would like you to...", "We are designing...", "Could you please...". In Rock Talk, the model's attention is focused 100% on the technical parameters.
-3. **Scale Impact**: For a developer sending 1,000 such prompts per day, switching to Rock Talk could save over **$100/month** in API costs while reducing latency and increasing response accuracy.
+1. **Information Loss**: Zero. All core constraints (1M users, latency/consistency/complexity, REST vs Kafka) are
+preserved.
+2. **Model Attention**: In the Standard Prose version, the model must "attend" to social fillers like "I would like you
+to...", "We are designing...", "Could you please...". In Rock Talk, the model's attention is focused 100% on the
+technical parameters.
+3. **Scale Impact**: For a developer sending 1,000 such prompts per day, switching to Rock Talk could save over
+**$100/month** in API costs while reducing latency and increasing response accuracy.
