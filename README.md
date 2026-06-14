@@ -37,5 +37,5 @@ go."
 ## You help
 - Maintained by Attogram - https://github.com/attogram
 - Feedback welcomed via GitHub Issues: https://github.com/attogram/rock-talk/issues and Pull Requests.
-- Citation Audit: https://github.com/attogram/rock-talk/citations.md
+- Citation Audit: https://github.com/attogram/rock-talk/blob/main/citations.md
 
