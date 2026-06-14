@@ -36,6 +36,6 @@ go."
 
 ## You help
 - Maintained by Attogram - https://github.com/attogram
-- Feedback welcomed via [Issues](https://github.com/attogram/rock-talk/issues) and Pull Requests.
-
+- Feedback welcomed via GitHub Issues: https://github.com/attogram/rock-talk/issues and Pull Requests.
+- Citation Audit: https://github.com/attogram/rock-talk/citations.md
 
