@@ -1,4 +1,4 @@
-# Rock Talk 0.1: High-Signal Semantic Compression (SCP) for LLM Efficiency and Agentic Coordination
+# Rock Talk: High-Signal Semantic Compression for AI Agents
 
 ```
 Me Senior Software Engineer.
