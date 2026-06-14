@@ -20,7 +20,7 @@ Stress-Energy tensor (stuff). |
 | According to General Relativity, time passes more slowly in regions of stronger gravitational potential. This means
 that a clock near a massive body like a star will tick slower than a clock in empty space. | Strong gravity, slow time.
 Near mass? Clock lag. |
-| **Light Deflection and Gravitational Lensing** | **Light Deflection and Gravitational Lensing** |
+| **Light Deflection and Gravitational Lensing** | **Light Deflection / Gravitational Lensing** |
 | Because light follows the curvature of spacetime (null geodesics), it will appear to "bend" when passing near a
 massive object. This effect, known as gravitational lensing, allows massive galaxy clusters to act as giant telescopes
 for distant objects. | Light follows curves. Massive object bends light path. Lensing: Galaxy acts as lens. |
