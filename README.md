@@ -21,7 +21,7 @@ Me curse at smartrock.
 
 Rock talk is born.
 
-   (After Action Report, Attogram, 2026)
+(After Action Report, Attogram, 2026)
 ```
 
 - [Rock Talk 1.0: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic
