@@ -1,4 +1,4 @@
-# Show HN: Rock Talk 1.0 — A Semantic Compression Protocol (SCP) for High-Signal Agentic Coordination and Human-AI Alignment
+# Rock Talk 1.0 — A Semantic Compression Protocol (SCP) for High-Signal Agentic Coordination and Human-AI Alignment
 
 ```
 Me Senior Software Engineer.
