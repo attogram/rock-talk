@@ -1,0 +1,69 @@
+- [ ] G8 (#69): Section 3 components generation
+- [ ] G7 (#68): Theoretical Foundations and Prior Art draft
+- [ ] G6 (#67): Non-negotiable citation core mapping
+- [ ] G5 (#66): Maximal candidate bibliography expansion
+- [ ] G4 (#65): Formal systems model and specification critique
+- [ ] G3 (#64): Operational implementation protocol/Methods section
+- [ ] G2 (#63): Communication spectrum/manifold clarification
+- [ ] G1 (#62): Paper review and linter suggestion
+- [ ] F9 (#61): Review Jules sessions and synthesis milestone
+- [x] PR (#60): Rock Talk 1.0: The Synthesis
+- [ ] F8 (#59): Alignment victory and agent metamorphosis
+- [ ] F7 (#58): Jules plan approval and autonomous execution
+- [ ] F6 (#57): Cytherians first contact case study
+- [ ] F5 (#56): Pakleds hidden intent analysis
+- [ ] F4 (#55): Kevin Malone compression mechanism study
+- [ ] F3 (#54): High-signal additions and protocol hardening
+- [x] PR (#53): Synthesize GitHub issues into todo4.md roadmap
+- [ ] F2 (#52): Data harvest and execution loop milestone
+- [ ] F1 (#51): Jules wake up and initial data harvest
+- [ ] E15 (#50): GitHub issue-loop as operational proof
+- [ ] E14 (#49): Product review and scannability matrix
+- [ ] E13 (#48): Adversarial Git-loop and sprint status
+- [ ] E12 (#47): AGENTS.md role and identity analysis
+- [ ] E11 (#46): Academic Vibing methodology definition
+- [ ] E10 (#45): Alignment tradeoff and CoT contradiction
+- [ ] E9 (#44): Linguistic and cultural bias acknowledgment
+- [ ] E8 (#43): Biological decoding tax documentation
+- [ ] E7 (#42): Protocol professionalization and nomenclature (SCP/IDC)
+- [ ] E6 (#41): Relocating archetypes to cultural appendix
+- [ ] E5 (#40): SPO Triads and deterministic logic operators
+- [ ] E4 (#39): TIR/SDI worked examples for archetypes
+- [ ] E4 (#38): Operationalizing Semantic Intent (I)
+- [ ] E3 (#37): Hardware/cost transparency and accessibility
+- [ ] E2 (#36): Weaver/McLuhan theoretical integration
+- [ ] E1 (#35): McLuhan citation and medium substrate claims
+- [x] PR (#34): Synthesize peer reviews into todo2.md
+- [ ] D1 (#33): Adversarial review and Shannon Fallacy critique
+- [ ] C7 (#32): Cultural bias and packaging variations
+- [ ] C6 (#31): Code-as-rock-talk linkage and compilers
+- [ ] C5 (#30): Pseudocode section and logic mapping
+- [ ] C4 (#29): Negative constraints and transition fluff
+- [ ] C3 (#28): Human processing asymmetry peer review
+- [ ] C2 (#27): Protocolized language continuum peer review
+- [ ] C1 (#26): Empirical basis and validation framework peer review
+- [x] PR (#25): Finalize Rock Talk 1.0: Roadmap to Academic Rigor
+- [x] PR (#24): Create project roadmap in todo.md
+- [x] C12 (#23): Bibliography and links finalization
+- [x] C11 (#22): Stable archival records and Zenodo/ArXiv links
+- [x] C10 (#21): Agent-based consensus network documentation
+- [x] C9 (#20): Defensive refutations and attack vectors
+- [x] C8 (#19): Attention drift and positional embedding theory
+- [x] C7 (#18): Multi-agent semantic telephone expansion
+- [x] PR (#17): Implement feedback from 6 open issues
+- [x] C6 (#16): Keyrock archetype and proficiency cloaking
+- [x] C5 (#15): Typographical topology and physical layout
+- [x] C4 (#14): Elasticity continuum (Strict/Fluid/Phatic)
+- [x] C3 (#13): TIR and SDI metric definitions
+- [x] C2 (#12): Transitioning motivating incident to observed incident
+- [x] C1 (#11): Feedback synthesis for v1.0 roadmap
+- [x] PR (#10): Rock Talk 1.0 Refinement
+- [x] PR (#9): Major Documentation Iteration and Scientific Reframing
+- [x] PR (#8): Summarize implementation plan for issues #5, #6, and #7
+- [x] C3 (#7): Bidirectional training vs one-sided compression
+- [x] C2 (#6): Operational origin and primary source citation
+- [x] C1 (#5): Scientific positioning and validation framework
+- [x] PR (#4): Refine Protocol and Add Cultural References
+- [x] PR (#3): Release Rock Talk 1.0 (ArXiv/HN Ready)
+- [x] PR (#2): Enhance Academic Prose and Citations
+- [x] PR (#1): Initial implementation of Rock Talk protocol
