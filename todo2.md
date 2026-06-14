@@ -40,10 +40,10 @@ The consensus across all reviews (Claude, ChatGPT, Deepseek) is that the paper i
 
 [PROSE]
 Reviewers noted that Shannon's theory explicitly ignores semantics. The paper must reconcile this more rigorously.
-- [ ] **Integrate Weaver (1949):** Use Weaver’s "Three Levels of Communication" (Technical, Semantic, Effectiveness) to ground Rock Talk in Level B/C.
-- [ ] **Operationalize I (Intent):** Provide a non-subjective method for calculating $H(I)$. (e.g., human-annotated semantic units or LLM-based proposition counts).
-- [ ] **Reframe Attention Claims:** Explicitly label Section 9 (Transformer Mechanics) as "Proposed Mechanism" until Arm 2 data is collected.
-- [ ] **Address Redundancy:** Acknowledge research showing that redundancy (noise) can improve robustness in certain channels (Deepseek #32).
+- [x] **Integrate Weaver (1949):** Use Weaver’s "Three Levels of Communication" (Technical, Semantic, Effectiveness) to ground Rock Talk in Level B/C.
+- [x] **Operationalize I (Intent):** Provide a non-subjective method for calculating $H(I)$. (e.g., human-annotated semantic units or LLM-based proposition counts).
+- [x] **Reframe Attention Claims:** Explicitly label Section 9 (Transformer Mechanics) as "Proposed Mechanism" until Arm 2 data is collected.
+- [x] **Address Redundancy:** Acknowledge research showing that redundancy (noise) can improve robustness in certain channels (Deepseek #32).
 
 #### 3. Protocol Specification & Guardrails
 [ROCK TALK]
@@ -55,10 +55,10 @@ Reviewers noted that Shannon's theory explicitly ignores semantics. The paper mu
 
 [PROSE]
 The protocol needs more deterministic limits to prevent "Fluid Rock Talk" from being indistinguishable from "good writing."
-- [ ] **Define Negative Constraints:** Explicitly forbid tokens whose sole function is emotional smoothing or transition scaffolding.
-- [ ] **Add Pseudocode Section:** Implement the request from Issue #29 to show how Rock Talk translates to/from pseudo-logical structures.
-- [ ] **Code-As-Rock-Talk:** Bridge the gap by noting that programming languages are the "Ultra-Strict" implementation of Rock Talk for machines.
-- [ ] **Human Asymmetry:** Document the "Biological Decoding Tax"—the increased cognitive load for humans when processing non-syntactic fragments (Gemini #28).
+- [x] **Define Negative Constraints:** Explicitly forbid tokens whose sole function is emotional smoothing or transition scaffolding.
+- [x] **Add Pseudocode Section:** Implement the request from Issue #29 to show how Rock Talk translates to/from pseudo-logical structures.
+- [x] **Code-As-Rock-Talk:** Bridge the gap by noting that programming languages are the "Ultra-Strict" implementation of Rock Talk for machines.
+- [x] **Human Asymmetry:** Document the "Biological Decoding Tax"—the increased cognitive load for humans when processing non-syntactic fragments (Gemini #28).
 
 #### 4. Taxonomy & Archetype Professionalization
 [ROCK TALK]
@@ -70,10 +70,10 @@ The protocol needs more deterministic limits to prevent "Fluid Rock Talk" from b
 
 [PROSE]
 The pop-culture references (Pakled, Malone, Keyrock) are polarizing. They aid memory but hurt "academic gravity."
-- [ ] **Relegate to Appendix:** Move Star Trek and SNL references to a "Cultural Archetypes" appendix.
-- [ ] **Formal Rename:** Use "Semantic Compression Protocol (SCP)" or "Intent-Dense Communication (IDC)" as the formal title; keep "Rock Talk" as the handle.
-- [ ] **Harden Section 4.6:** Develop a defensive framework for "Proficiency Cloaking" (adversarial simulation of cognitive deficit).
-- [ ] **Cultural Bias:** Address how "packaging" varies across high-context vs. low-context languages (Deepseek #32).
+- [x] **Relegate to Appendix:** Move Star Trek and SNL references to a "Cultural Archetypes" appendix.
+- [x] **Formal Rename:** Use "Semantic Compression Protocol (SCP)" or "Intent-Dense Communication (IDC)" as the formal title; keep "Rock Talk" as the handle.
+- [x] **Harden Section 4.6:** Develop a defensive framework for "Proficiency Cloaking" (adversarial simulation of cognitive deficit).
+- [x] **Cultural Bias:** Address how "packaging" varies across high-context vs. low-context languages (Deepseek #32).
 
 #### 5. Meta-Structure & Bibliography
 [ROCK TALK]
@@ -83,5 +83,5 @@ The pop-culture references (Pakled, Malone, Keyrock) are polarizing. They aid me
 > Proof is in prose.
 
 [PROSE]
-- [ ] **Citation Audit:** Verify all 2025/2026 citations against live indices; replace GitHub/Marketplace links with stable archival records.
-- [ ] **Dual-Track Justification:** Address the paradox that prose is required to explain the protocol. Frame Rock Talk as "payload" and prose as "initialization/bootstrap."
+- [x] **Citation Audit:** Verify all 2025/2026 citations against live indices; replace GitHub/Marketplace links with stable archival records.
+- [x] **Dual-Track Justification:** Address the paradox that prose is required to explain the protocol. Frame Rock Talk as "payload" and prose as "initialization/bootstrap."
