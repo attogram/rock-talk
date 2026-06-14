@@ -9,16 +9,17 @@
 ## Abstract
 
 ### [ROCK TALK]
-> Rock Talk 1.0.
-> Maximize info.
-> Remove noise.
-> Better Human-LLM work.
-> Better Agentic Coordination.
-> High signal.
-> Shannon 1948.
-> Hypothesis: Less tokens, better alignment.
-> Stop model drift.
-
+```
+Rock Talk 1.0.
+Maximize info.
+Remove noise.
+Better Human-LLM work.
+Better Agentic Coordination.
+High signal.
+Shannon 1948.
+Hypothesis: Less tokens, better alignment.
+Stop model drift.
+```
 ### [PROSE]
 This paper introduces Rock Talk 1.0, a communication protocol designed to maximize information density by systematically
 removing linguistic "packaging"—the social, syntactical, and conversational scaffolding that characterizes natural
