@@ -1,4 +1,4 @@
-# Rock Talk 1.0: High-Signal Semantic Compression (SCP) for LLM Efficiency and Agentic Coordination
+# Rock Talk 0.1: High-Signal Semantic Compression (SCP) for LLM Efficiency and Agentic Coordination
 
 ```
 Me Senior Software Engineer.
@@ -24,9 +24,9 @@ Rock talk is born.
 (After Action Report, Attogram, 2026)
 ```
 
-## Rock Talk
-- [Rock Talk 1.0: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic
-Coordination](rock-talk.md)
+## Research Papers
+- [Rock Talk 0.1: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination](rock-talk-0.1.md)
+- [Academic Vibing 0.1: A Meta-Methodology for High-Speed Agentic Research and Structured Curiosity](academic-vibing-0.1.md)
 - [Rock Talk Examples](examples/)
 
 ## Videos
