@@ -1,5 +1,7 @@
 # Rock Talk: High-Signal Semantic Compression for AI Agents
 
+Paper: https://github.com/attogram/rock-talk/blob/main/rock-talk-0.1.md
+
 ```
 Me Senior Software Engineer.
 Me work hard.
@@ -24,11 +26,6 @@ Rock talk is born.
 (After Action Report, Attogram, 2026)
 ```
 
-## Research Papers
-- [Rock Talk 0.1: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination](rock-talk-0.1.md)
-- [Academic Vibing 0.1: A Meta-Methodology for High-Speed Agentic Research and Structured Curiosity](academic-vibing-0.1.md)
-- [Rock Talk Examples](examples/)
-
 ## Videos
   - [Kevin Malone: Small Talk](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few
 word do trick." (NBC Official)
@@ -36,6 +33,7 @@ word do trick." (NBC Official)
 go."
 
 ## You help
-- Maintained by Attogram.
+- Maintained by Attogram - https://github.com/attogram
 - Feedback welcomed via [Issues](https://github.com/attogram/rock-talk/issues) and Pull Requests.
+
 
