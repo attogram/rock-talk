@@ -17,31 +17,31 @@
 - [x] PR (#53): Synthesize GitHub issues into todo4.md roadmap
 - [x] F2 (#52): Data harvest and execution loop milestone
 - [x] F1 (#51): Jules wake up and initial data harvest
-- [ ] E15 (#50): GitHub issue-loop as operational proof
-- [ ] E14 (#49): Product review and scannability matrix
-- [ ] E13 (#48): Adversarial Git-loop and sprint status
-- [ ] E12 (#47): AGENTS.md role and identity analysis
-- [ ] E11 (#46): Academic Vibing methodology definition
-- [ ] E10 (#45): Alignment tradeoff and CoT contradiction
-- [ ] E9 (#44): Linguistic and cultural bias acknowledgment
-- [ ] E8 (#43): Biological decoding tax documentation
-- [ ] E7 (#42): Protocol professionalization and nomenclature (SCP/IDC)
-- [ ] E6 (#41): Relocating archetypes to cultural appendix
-- [ ] E5 (#40): SPO Triads and deterministic logic operators
-- [ ] E4 (#39): TIR/SDI worked examples for archetypes
-- [ ] E4 (#38): Operationalizing Semantic Intent (I)
-- [ ] E3 (#37): Hardware/cost transparency and accessibility
-- [ ] E2 (#36): Weaver/McLuhan theoretical integration
-- [ ] E1 (#35): McLuhan citation and medium substrate claims
+- [x] E15 (#50): GitHub issue-loop as operational proof
+- [x] E14 (#49): Product review and scannability matrix
+- [x] E13 (#48): Adversarial Git-loop and sprint status
+- [x] E12 (#47): AGENTS.md role and identity analysis
+- [x] E11 (#46): Academic Vibing methodology definition
+- [x] E10 (#45): Alignment tradeoff and CoT contradiction
+- [x] E9 (#44): Linguistic and cultural bias acknowledgment
+- [x] E8 (#43): Biological decoding tax documentation
+- [x] E7 (#42): Protocol professionalization and nomenclature (SCP/IDC)
+- [x] E6 (#41): Relocating archetypes to cultural appendix
+- [x] E5 (#40): SPO Triads and deterministic logic operators
+- [x] E4 (#39): TIR/SDI worked examples for archetypes
+- [x] E4 (#38): Operationalizing Semantic Intent (I)
+- [x] E3 (#37): Hardware/cost transparency and accessibility
+- [x] E2 (#36): Weaver/McLuhan theoretical integration
+- [x] E1 (#35): McLuhan citation and medium substrate claims
 - [x] PR (#34): Synthesize peer reviews into todo2.md
-- [ ] D1 (#33): Adversarial review and Shannon Fallacy critique
-- [ ] C7 (#32): Cultural bias and packaging variations
-- [ ] C6 (#31): Code-as-rock-talk linkage and compilers
-- [ ] C5 (#30): Pseudocode section and logic mapping
-- [ ] C4 (#29): Negative constraints and transition fluff
-- [ ] C3 (#28): Human processing asymmetry peer review
-- [ ] C2 (#27): Protocolized language continuum peer review
-- [ ] C1 (#26): Empirical basis and validation framework peer review
+- [x] D1 (#33): Adversarial review and Shannon Fallacy critique
+- [x] C7 (#32): Cultural bias and packaging variations
+- [x] C6 (#31): Code-as-rock-talk linkage and compilers
+- [x] C5 (#30): Pseudocode section and logic mapping
+- [x] C4 (#29): Negative constraints and transition fluff
+- [x] C3 (#28): Human processing asymmetry peer review
+- [x] C2 (#27): Protocolized language continuum peer review
+- [x] C1 (#26): Empirical basis and validation framework peer review
 - [x] PR (#25): Finalize Rock Talk 1.0: Roadmap to Academic Rigor
 - [x] PR (#24): Create project roadmap in todo.md
 - [x] C12 (#23): Bibliography and links finalization
