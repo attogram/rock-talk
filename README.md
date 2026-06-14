@@ -1,4 +1,4 @@
-# Rock Talk 1.0: A Semantic Compression Protocol for High-Signal Agentic Coordination
+# Rock Talk 1.0: Semantic Compression Protocol for High-Signal Agentic Coordination
 
 ```
 Me Senior Software Engineer.
