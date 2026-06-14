@@ -1,4 +1,6 @@
-# Rock Talk: High-Signal Semantic Compression for AI Agents
+# Rock Talk: High-Signal Semantic Compression for Human-AI Alignment
+
+Rock Talk 0.1: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
 
 Paper: https://github.com/attogram/rock-talk/blob/main/rock-talk-0.1.md
 
