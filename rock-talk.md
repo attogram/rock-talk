@@ -291,7 +291,7 @@ See "Pirate" archetype.
 ```
 
 ### [PROSE]
-This category represents the inverse of Rock Talk: it is high-flavor but token-heavy and low-signal. It prioritizes identity and aesthetic over information transfer. Recent research ([Brath et al. 2023](https://nlviz.github.io/2023/papers/nlviz2023_brath.pdf)) documents the prevalence of this pattern in social media and creative writing contexts. (See Appendix A: **The "Pirate" Vector**).
+This category represents the inverse of Rock Talk: it is high-flavor but token-heavy and low-signal. It prioritizes identity and aesthetic over information transfer. Recent research ([Brath et al. 2023](https://uncharted.software/research/visualizing-llm-text-style-transfer/)) documents the prevalence of this pattern in social media and creative writing contexts. (See Appendix A: **The "Pirate" Vector**).
 
 ### 4.2 Type II: Strategic Syntactic Truncation (Lite SCP)
 
@@ -537,10 +537,11 @@ Hypothesis: Rock Talk saves money.
 API bills drop.
 Lower TIR (defined in Sec 2.1).
 Higher SDI (defined in Sec 2.1).
+Few-shot efficiency (Brown 2020).
 ```
 
 ### [PROSE]
-We hypothesize that Rock Talk provides a quantifiable economic advantage in LLM environments. By reducing the Token-to-Intent Ratio (TIR) and maximizing the Semantic Density Index (SDI)—as formalized in Section 2.1—organizations can achieve measurable cost reductions and performance improvements.
+We hypothesize that Rock Talk provides a quantifiable economic advantage in LLM environments. By reducing the Token-to-Intent Ratio (TIR) and maximizing the Semantic Density Index (SDI)—as formalized in Section 2.1—organizations can achieve measurable cost reductions and performance improvements. This aligns with findings from Brown et al. (2020) regarding the scaling laws and few-shot capabilities of Large Language Models, where token efficiency directly impacts operational scalability.
 
 Preliminary analysis suggests a potential reduction in token overhead of 20% to 50% for complex instructions, directly correlating to a similar reduction in operational expenditure for high-volume agentic systems.
 
@@ -817,12 +818,14 @@ While primary prose uses formal nomenclature (SCP/IDC), the following cultural a
 
 | Formal Type | Cultural Archetype | Key Trope | Note |
 | :--- | :--- | :--- | :--- |
-| **Type I (SCP)** | The "Pirate" Vector | "Ahoy matey!" | High flavor, high noise. Prioritizes identity over signal. |
-| **Type II (Lite SCP)** | The "Malone" Vector | "Few word do trick." | Strategic time-saving via grammatical truncation. |
-| **Type III (Full SCP)** | The "Pakled" Vector | "Things to make us go." | High semantic density masked by simple lexical tokens. |
-| **Type IV (Pure IDC)** | The "Cytherian" Vector | Speed of thought. | Maximum intent-loading, bypassing linguistic latency. |
-| **Type V (Fallacy)** | The "Ooga Booga" Fallacy | Nonsense tropes. | Performative noise masquerading as compression. |
-| **Type VI (Framework)** | The "Keyrock" Vector | "Unfrozen Caveman Lawyer." | Strategic proficiency cloaking for adversarial advantage. |
+| Formal Type | Cultural Archetype | Key Trope | Note |
+| :--- | :--- | :--- | :--- |
+| **Type I (SCP)** | The "Pirate" Vector | "Ahoy matey!" | High flavor, high noise. Prioritizes identity over signal ([Brath 2023](https://uncharted.software/research/visualizing-llm-text-style-transfer/)). |
+| **Type II (Lite SCP)** | The "Malone" Vector | "Few word do trick." | Strategic time-saving via grammatical truncation ([Raiyan 2025](https://arxiv.org/abs/2510.16439)). |
+| **Type III (Full SCP)** | The "Pakled" Vector | "Things to make us go." | High semantic density masked by simple lexical tokens ([Daniels & Thompson 1989](https://www.youtube.com/watch?v=h7PZKzKPFfE)). |
+| **Type IV (Pure IDC)** | The "Cytherian" Vector | Speed of thought. | Maximum intent-loading, bypassing linguistic latency ([Manning 1991](https://www.youtube.com/watch?v=0h6uSioSIsU)). |
+| **Type V (Fallacy)** | The "Ooga Booga" Fallacy | Nonsense tropes. | Performative noise masquerading as compression ([Malik 2024](https://doi.org/10.18653/v1/2024.findings-acl.926); [Burroughs 1912](https://archive.org/details/tarzanofapes00burr); [Hanna & Barbera 1960](https://www.google.com/search?q=The+Flintstones)). |
+| **Type VI (Framework)** | The "Keyrock" Vector | "Unfrozen Caveman Lawyer." | Strategic proficiency cloaking for adversarial advantage ([Handey 1991](https://www.youtube.com/watch?v=2AzAFqrexfeY)). |
 
 ---
 
@@ -865,10 +868,8 @@ To facilitate the adoption of Rock Talk 1.0, we propose the development of a **"
 - **Miller, G. A. (1956)**. "The Magical Number Seven, Plus or Minus Two." *Psychological Review.*
 - **Raiyan, S. R., et al. (2025)**. *FrugalPrompt: Reducing Contextual Overhead in LLMs.* arXiv:2510.16439.
 - **Shannon, C. E. (1948)**. *A Mathematical Theory of Communication.* Bell System Technical Journal.
-- **Somerstep, S., et al. (2024)**. *Weak-to-strong generalization.* arXiv:2405.16236.
 - **Sperber, D., & Wilson, D. (1986)**. *Relevance: Communication and Cognition.* Harvard University Press.
 - **Standage, T. (1998)**. *The Victorian Internet.* Macmillan.
 - **Vaswani, A., et al. (2017)**. "Attention Is All You Need." *Advances in Neural Information Processing Systems.* arXiv:1706.03762.
 - **Yang, B., et al. (2025)**. *Crafting Customisable Characters with LLMs.* arXiv:2406.17962.
-- **Zhang, T., et al. (2024)**. *Self-interpreting Adversarial Images.* arXiv:2407.08970.
 - **Zipf, G. K. (1949)**. *Human Behavior and the Principle of Least Effort.* Addison-Wesley.
