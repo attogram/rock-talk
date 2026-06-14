@@ -354,7 +354,7 @@ See "Ooga Booga" fallacy.
 ```
 
 ### [PROSE]
-The Performative Entropy Fallacy is the use of nonsense sounds that superficially resemble compressed speech but actually violate the principles of Rock Talk by introducing pure phatic noise. This distinction is critical: low-density noise is not Rock Talk ([Malik et al. 2024](https://aclanthology.org/2024/)). (See Appendix A: **The "Ooga Booga" Fallacy**).
+The Performative Entropy Fallacy is the use of nonsense sounds that superficially resemble compressed speech but actually violate the principles of Rock Talk by introducing pure phatic noise. This distinction is critical: low-density noise is not Rock Talk ([Malik et al. 2024](https://doi.org/10.18653/v1/2024.findings-acl.926)). (See Appendix A: **The "Ooga Booga" Fallacy**).
 
 ### 4.6 Type VI: Proficiency Cloaking Framework
 
@@ -822,8 +822,6 @@ While primary prose uses formal nomenclature (SCP/IDC), the following cultural a
 
 | Formal Type | Cultural Archetype | Key Trope | Note |
 | :--- | :--- | :--- | :--- |
-| Formal Type | Cultural Archetype | Key Trope | Note |
-| :--- | :--- | :--- | :--- |
 | **Type I (SCP)** | The "Pirate" Vector | "Ahoy matey!" | High flavor, high noise. Prioritizes identity over signal ([Brath 2023](https://uncharted.software/research/visualizing-llm-text-style-transfer/)). |
 | **Type II (Lite SCP)** | The "Malone" Vector | "Few word do trick." | Strategic time-saving via grammatical truncation ([Raiyan 2025](https://arxiv.org/abs/2510.16439)). |
 | **Type III (Full SCP)** | The "Pakled" Vector | "Things to make us go." | High semantic density masked by simple lexical tokens ([Daniels & Thompson 1989](https://www.youtube.com/watch?v=h7PZKzKPFfE)). |
@@ -867,7 +865,7 @@ To facilitate the adoption of Rock Talk 0.1, we propose the development of a **"
 - **Levinson, S. C. (2000)**. *Presumptive Meanings: The Theory of Generalized Conversational Implicature.* MIT Press.
 - **Liu, N. F., et al. (2024)**. "Lost in the Middle: How Language Models Use Long Contexts." *Transactions of the Association for Computational Linguistics*, 12:157–173. [https://doi.org/10.1162/tacl_a_00660](https://doi.org/10.1162/tacl_a_00660)
 - **Malinowski, B. (1923)**. "The Problem of Meaning in Primitive Languages." *The Meaning of Meaning.*
-- **Malik, A., et al. (2024)**. *From Tarzan to Tolkien: Controlling Language Proficiency.* ACL 2024.
+- **Malik, A., et al. (2024)**. *From Tarzan to Tolkien: Controlling Language Proficiency.* ACL 2024. [https://doi.org/10.18653/v1/2024.findings-acl.926](https://doi.org/10.18653/v1/2024.findings-acl.926)
 - **Manning, M. (Director). (1991)**. "The Nth Degree" (*Star Trek: The Next Generation*). Paramount Television.
 - **Miller, G. A. (1956)**. "The Magical Number Seven, Plus or Minus Two." *Psychological Review.*
 - **Raiyan, S. R., et al. (2025)**. *FrugalPrompt: Reducing Contextual Overhead in LLMs.* arXiv:2510.16439.
