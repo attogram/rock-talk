@@ -1,22 +1,22 @@
-- [ ] G8 (#69): Section 3 components generation
-- [ ] G7 (#68): Theoretical Foundations and Prior Art draft
-- [ ] G6 (#67): Non-negotiable citation core mapping
-- [ ] G5 (#66): Maximal candidate bibliography expansion
-- [ ] G4 (#65): Formal systems model and specification critique
-- [ ] G3 (#64): Operational implementation protocol/Methods section
-- [ ] G2 (#63): Communication spectrum/manifold clarification
-- [ ] G1 (#62): Paper review and linter suggestion
-- [ ] F9 (#61): Review Jules sessions and synthesis milestone
+- [x] G8 (#69): Section 3 components generation
+- [x] G7 (#68): Theoretical Foundations and Prior Art draft
+- [x] G6 (#67): Non-negotiable citation core mapping
+- [x] G5 (#66): Maximal candidate bibliography expansion
+- [x] G4 (#65): Formal systems model and specification critique
+- [x] G3 (#64): Operational implementation protocol/Methods section
+- [x] G2 (#63): Communication spectrum/manifold clarification
+- [x] G1 (#62): Paper review and linter suggestion
+- [x] F9 (#61): Review Jules sessions and synthesis milestone
 - [x] PR (#60): Rock Talk 1.0: The Synthesis
-- [ ] F8 (#59): Alignment victory and agent metamorphosis
-- [ ] F7 (#58): Jules plan approval and autonomous execution
-- [ ] F6 (#57): Cytherians first contact case study
-- [ ] F5 (#56): Pakleds hidden intent analysis
-- [ ] F4 (#55): Kevin Malone compression mechanism study
-- [ ] F3 (#54): High-signal additions and protocol hardening
+- [x] F8 (#59): Alignment victory and agent metamorphosis
+- [x] F7 (#58): Jules plan approval and autonomous execution
+- [x] F6 (#57): Cytherians first contact case study
+- [x] F5 (#56): Pakleds hidden intent analysis
+- [x] F4 (#55): Kevin Malone compression mechanism study
+- [x] F3 (#54): High-signal additions and protocol hardening
 - [x] PR (#53): Synthesize GitHub issues into todo4.md roadmap
-- [ ] F2 (#52): Data harvest and execution loop milestone
-- [ ] F1 (#51): Jules wake up and initial data harvest
+- [x] F2 (#52): Data harvest and execution loop milestone
+- [x] F1 (#51): Jules wake up and initial data harvest
 - [ ] E15 (#50): GitHub issue-loop as operational proof
 - [ ] E14 (#49): Product review and scannability matrix
 - [ ] E13 (#48): Adversarial Git-loop and sprint status

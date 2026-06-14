@@ -119,55 +119,69 @@ Rock talk is born.
 
 ### [ROCK TALK]
 ```
-Info theory: Signal vs Noise (Shannon 1948).
+Bits != Intent.
+Shannon Fallacy: Bits != Meaning.
 Cite Weaver 1949 (Three Levels).
+Level B: Semantic.
+Level C: Effectiveness.
 Cite McLuhan 1964 (Medium = Message).
 Medium = Transformer Attention.
-Rock Talk: Lossless compression.
-Keep core data.
-Drop wrapper.
+Rock Talk: Intent-loading.
 ```
 
 ### [PROSE]
-Information theory suggests that the efficiency of a channel is determined by its signal-to-noise ratio ([Shannon 1948](https://archive.org/details/shannon1948)). Rock Talk functions as a "lossless compression" protocol, preserving the core semantic payload while systematically removing the wrapper of natural language's social scaffolding.
+Information theory suggests that the efficiency of a channel is determined by its signal-to-noise ratio ([Shannon 1948](https://archive.org/details/shannon1948)). However, standard applications of Shannon often fall into the **"Shannon Fallacy"**—the conflation of statistical entropy (bits) with semantic utility. To resolve this, we ground Rock Talk 1.0 in Weaver’s (1949) "Three Levels of Communication."
 
-We ground this protocol in Weaver’s (1949) "Three Levels of Communication." While Level A (Technical) focuses on the accuracy of symbol transmission, Rock Talk operates at **Level B (Semantic)**—how precisely symbols convey desired meaning—and **Level C (Effectiveness)**—how effectively the received meaning affects behavior.
+While Level A (Technical) focuses on the accuracy of symbol transmission, Rock Talk operates at **Level B (Semantic)**—how precisely symbols convey desired meaning—and **Level C (Effectiveness)**—how effectively the received meaning affects behavior. By systematically removing phatic noise, we maximize efficiency at Levels B and C without compromising Level A accuracy.
 
-Furthermore, we apply McLuhan’s (1964) axiom, "The Medium is the Message," to the computational substrate. In the context of LLMs, the "medium" is the Transformer’s attention mechanism. Rock Talk is the deliberate shaping of messages to align with this attention-driven substrate, ensuring that semantic intent is not diluted by phatic noise.
+Furthermore, we apply McLuhan’s (1964) axiom, **"The Medium is the Message,"** to the computational substrate. In the context of Large Language Models, the "medium" is the Transformer’s attention mechanism and KV cache. Rock Talk is the deliberate application of this principle: shaping the message to align with the specific constraints and strengths of the attention substrate, ensuring that semantic intent is not diluted by the linguistic "packaging" of the legacy human medium.
 
 ### 2.1 Formalizing Semantic Intent (I) and Metrics
 
 ### [ROCK TALK]
 ```
-Intent (I) = SPO triads + Parameters.
+Intent (I) = SPO triads + Constraints.
+Define H(I) procedure.
+1. Break to Subject-Predicate-Object.
+2. Filter technical parameters.
+3. Sum = I.
 TIR = T / I.
 SDI = I / T.
-Target: Low TIR, High SDI.
-Worked examples below.
+Worked examples for archetypes.
 ```
 
 ### [PROSE]
-To move beyond subjective evaluation, we operationalize **Semantic Intent ($I$)** as the sum of all distinct **Subject-Predicate-Object (SPO)** triads and critical technical parameters within a message.
+To move beyond subjective evaluation, we operationalize **Semantic Intent ($I$)** as the sum of all distinct **Subject-Predicate-Object (SPO)** triads and critical technical parameters or constraints within a message.
+
+We define the **$H(I)$ Procedure** for quantifying intent:
+1.  **Decomposition:** Break the message into its core SPO triads.
+2.  **Constraint Extraction:** Identify all non-redundant technical parameters (e.g., specific error codes, port numbers, flag settings).
+3.  **Summation:** $I = \sum(\text{SPO triads}) + \sum(\text{Constraints})$.
 
 We formalize the following metrics for measuring protocol efficiency:
 
 1.  **Token-to-Intent Ratio (TIR)**:
     $$TIR = \frac{T}{I}$$
-    Where $T$ is the total token count. A lower TIR indicates that fewer tokens are required to convey each unit of intent.
+    Where $T$ is the total token count. Target: **Low TIR**.
 
 2.  **Semantic Density Index (SDI)**:
     $$SDI = \frac{I}{T}$$
-    Higher SDI indicates superior protocol performance and higher signal density.
+    Target: **High SDI**.
 
-#### Worked Examples:
-*   **Standard Prose:** *"I was wondering if you could please take a look at the database and perhaps restart the connection pool?"*
-    - **Intent ($I$):** 2 ([You] [Restart] [DB Pool], [Technical Parameter: Restart])
-    - **Tokens ($T$):** ~20
-    - **TIR:** 10.0 | **SDI:** 0.10
-*   **Rock Talk:** `Restart DB pool.`
+#### Archetype Efficiency Benchmarks:
+
+*   **Type I (High-Flavor/Pirate):** *"Ahoy matey! I've found a scurvy bug in the main deck of our database! Shiver me timbers, we must restart it!"*
+    - **Intent ($I$):** 2 ([Bug] [Found] [DB], [Restart] [DB])
+    - **Tokens ($T$):** ~25
+    - **TIR:** 12.5 | **SDI:** 0.08
+*   **Type II (Malone/Lite SCP):** *"Found a bug in the database. Need to restart it."*
     - **Intent ($I$):** 2
-    - **Tokens ($T$):** 3
-    - **TIR:** 1.5 | **SDI:** 0.66
+    - **Tokens ($T$):** 11
+    - **TIR:** 5.5 | **SDI:** 0.18
+*   **Full Rock Talk (SCP):** `Bug in DB. Restart.`
+    - **Intent ($I$):** 2
+    - **Tokens ($T$):** 5
+    - **TIR:** 2.5 | **SDI:** 0.40
 
 ### 2.2 Addressing the "Shannon Fallacy"
 
@@ -273,10 +287,11 @@ High noise.
 Too many tokens.
 Low data.
 Brath 2023.
+See "Pirate" archetype.
 ```
 
 ### [PROSE]
-This category represents the inverse of Rock Talk: it is high-flavor but token-heavy and low-signal. It prioritizes identity and aesthetic over information transfer. Recent research ([Brath et al. 2023](https://nlviz.github.io/2023/papers/nlviz2023_brath.pdf)) documents the prevalence of this pattern in social media and creative writing contexts.
+This category represents the inverse of Rock Talk: it is high-flavor but token-heavy and low-signal. It prioritizes identity and aesthetic over information transfer. Recent research ([Brath et al. 2023](https://nlviz.github.io/2023/papers/nlviz2023_brath.pdf)) documents the prevalence of this pattern in social media and creative writing contexts. (See Appendix A: **The "Pirate" Vector**).
 
 ### 4.2 Type II: Strategic Syntactic Truncation (Lite SCP)
 
@@ -287,10 +302,11 @@ Intentional.
 Pruned grammar.
 Is fast.
 Raiyan 2025.
+See "Malone" archetype.
 ```
 
 ### [PROSE]
-Characterized by the systematic removal of grammatical elements to save time, this category represents a conscious attempt at time-efficiency. This archetype directly prefigures Rock Talk and is documented in contexts ranging from SMS communication to real-time collaboration ([Raiyan et al. 2025](https://arxiv.org/abs/2510.16439)).
+Characterized by the systematic removal of grammatical elements to save time, this category represents a conscious attempt at time-efficiency. This archetype directly prefigures Rock Talk and is documented in contexts ranging from SMS communication to real-time collaboration ([Raiyan et al. 2025](https://arxiv.org/abs/2510.16439)). (See Appendix A: **The "Malone" Vector**).
 
 ### 4.3 Type III: High-Density Semantic Loading (Full SCP)
 
@@ -301,10 +317,11 @@ Simple tokens.
 High density.
 Hidden complexity.
 Yang 2025.
+See "Pakled" archetype.
 ```
 
 ### [PROSE]
-This category utilizes simple, high-frequency tokens to mask deep technical needs. Core requests function as masterpieces of high-density semantic loading (Full SCP). This is documented in adversarial prompting and in multi-turn interactions with safety-trained systems ([Yang et al. 2025](https://arxiv.org/abs/2406.17962)).
+This category utilizes simple, high-frequency tokens to mask deep technical needs. Core requests function as masterpieces of high-density semantic loading (Full SCP). This is documented in adversarial prompting and in multi-turn interactions with safety-trained systems ([Yang et al. 2025](https://arxiv.org/abs/2406.17962)). (See Appendix A: **The "Pakled" Vector**).
 
 ### 4.4 Type IV: Intent-Loading Zenith (Pure IDC)
 
@@ -315,10 +332,11 @@ No lag.
 Pure intent.
 High signal.
 Frising 2025.
+See "Cytherian" archetype.
 ```
 
 ### [PROSE]
-Representing the zenith of Intent-Dense Communication (IDC), this category bypasses linguistic latency entirely, communicating at the "speed of thought." Research into linear personality steering ([Frising 2025](https://arxiv.org/abs/2512.17639)) suggests this may align with how LLMs naturally process and represent high-density concepts.
+Representing the zenith of Intent-Dense Communication (IDC), this category bypasses linguistic latency entirely, communicating at the "speed of thought." Research into linear personality steering ([Frising 2025](https://arxiv.org/abs/2512.17639)) suggests this may align with how LLMs naturally process and represent high-density concepts. (See Appendix A: **The "Cytherian" Vector**).
 
 ### 4.5 Type V: Performative Entropy Fallacy
 
@@ -328,10 +346,11 @@ Nonsense noise.
 Performance, not data.
 Noise masquerading.
 Malik 2024.
+See "Ooga Booga" fallacy.
 ```
 
 ### [PROSE]
-The Performative Entropy Fallacy is the use of nonsense sounds that superficially resemble compressed speech but actually violate the principles of Rock Talk by introducing pure phatic noise. This distinction is critical: low-density noise is not Rock Talk ([Malik et al. 2024](https://aclanthology.org/2024/)).
+The Performative Entropy Fallacy is the use of nonsense sounds that superficially resemble compressed speech but actually violate the principles of Rock Talk by introducing pure phatic noise. This distinction is critical: low-density noise is not Rock Talk ([Malik et al. 2024](https://aclanthology.org/2024/)). (See Appendix A: **The "Ooga Booga" Fallacy**).
 
 ### 4.6 Type VI: Proficiency Cloaking Framework
 
@@ -342,10 +361,11 @@ Weaponized simplicity.
 Defensive Framework.
 Detect cognitive simulation.
 Adversarial vector fix.
+See "Keyrock" archetype.
 ```
 
 ### [PROSE]
-A distinct operational variant is **Proficiency Cloaking**, a defensive framework where a subject employs linguistic reductionism as a deliberate vector for strategic advantage. In Human-LLM systems, this represents an adversarial vector where an agent simulates cognitive deficit to bypass alignment guardrails or to focus attention on technical substance by "cloaking" their true proficiency. This must be treated as a strategic cognitive simulation that requires detection and alignment monitoring.
+A distinct operational variant is **Proficiency Cloaking**, a defensive framework where a subject employs linguistic reductionism as a deliberate vector for strategic advantage. In Human-LLM systems, this represents an adversarial vector where an agent simulates cognitive deficit to bypass alignment guardrails or to focus attention on technical substance by "cloaking" their true proficiency. This must be treated as a strategic cognitive simulation that requires detection and alignment monitoring. (See Appendix A: **The "Keyrock" Vector**).
 
 ---
 
@@ -368,7 +388,7 @@ Respect brain limits (Miller 1956).
 ### [PROSE]
 We propose four primary axioms to define the protocol: Directness, De-packaging, Precision, and Density. Users lead with data, eliminate filler, and select terms based on technical weight. This is consistent with Miller's (1956) findings on the limits of human information processing.
 
-A core component of Rock Talk is the enforcement of **negative constraints**. Participants must explicitly forbid tokens whose sole function is emotional smoothing, politeness optimization, or transition scaffolding (e.g., "I hope this helps," "Just following up," "Certainly").
+A core component of Rock Talk is the enforcement of **negative constraints**. Participants must explicitly forbid tokens whose sole function is emotional smoothing, politeness optimization, or transition scaffolding (e.g., "I hope this helps," "Just following up," "Certainly," "I understand"). This applies to both **Strict** and **Fluid** Rock Talk. In Fluid Rock Talk, while natural syntax is permitted, these phatic tokens remain non-negotiable exclusions.
 
 ---
 
@@ -404,10 +424,11 @@ Clear boundaries.
 ```
 
 ### [PROSE]
-To optimize multi-agent coordination, Rock Talk defines strict structural block wrappers. These prevent "prose leakage"—where one agent's conversational filler becomes another agent's technical input.
-*   `[CONTEXT]`: High-level environment data.
-*   `[SOURCE]`: Original data or code being acted upon.
-*   `[TASK]`: The specific imperative for the receiving agent.
+To optimize multi-agent coordination, Rock Talk defines strict structural block wrappers. These prevent "prose leakage"—where one agent's conversational filler becomes another agent's technical input. Standardizing these boundaries ensures that agents remain within the protocol's high-signal operational range.
+
+*   `[CONTEXT]`: High-level environment data, system state, or historical constraints.
+*   `[SOURCE]`: The raw data, log file, or code block being acted upon.
+*   `[TASK]`: The specific, atomic imperative for the receiving agent.
 
 ## 5.3 The Elasticity of the Protocol (Strict vs. Fluid Rock Talk)
 
@@ -591,7 +612,7 @@ Rock Talk = Precision attention.
 ```
 
 ### [PROSE]
-We hypothesize that the mechanical basis for Rock Talk's efficiency lies in the fundamental architecture of the Transformer ([Vaswani et al. 2017](https://arxiv.org/abs/1706.03762)). Standard conversational filler tokens dilute the model's attention mechanisms in three critical ways:
+We hypothesize that the mechanical basis for Rock Talk's efficiency lies in the fundamental architecture of the Transformer ([Vaswani et al. 2017](https://arxiv.org/abs/1706.03762)). **Note: These remain proposed mechanisms pending final empirical validation in Arm 2.** Standard conversational filler tokens dilute the model's attention mechanisms in three critical ways:
 
 1. **Key-Value (KV) Cache Dilution:** Every token processed by an LLM occupies space in the KV cache. When a significant percentage of the cache is occupied by low-signal "packaging" tokens (e.g., "Certainly, I'd be delighted to assist you with..."), the model has proportionally less capacity for high-signal tokens. This directly reduces the model's ability to retrieve and attend to important information.
 
@@ -649,6 +670,7 @@ reducing computational load and alignment errors.
 ### [ROCK TALK]
 ```
 Define method.
+Structured curiosity.
 Low friction. High cycle.
 Zero cost. Free tier.
 Phone + MacBook.
@@ -658,13 +680,13 @@ Recursive Agent Consensus.
 ```
 
 ### [PROSE]
-Rock Talk 1.0 was developed using **"Academic Vibing,"** a meta-methodology defined as rapid, AI-assisted iteration where rigor emerges from the cycle rather than institutional process.
+Rock Talk 1.0 was developed using **"Academic Vibing,"** a meta-methodology defined as **structured curiosity**—a middle ground between formal research and casual brainstorming. It prioritizes rapid, AI-assisted iteration where rigor emerges from the cycle and cross-agent consensus rather than traditional institutional processes.
 
 #### 11.1 Low-Friction Hardware and Cost Transparency
-The development environment was intentionally low-cost and mobile-first, utilizing Android voice chat, a standard MacBook, and LLM free tiers. This zero-budget approach demonstrates the protocol's accessibility and its effectiveness even in high-latency, mobile-first scenarios.
+The development environment was intentionally low-cost and mobile-first, utilizing Android voice chat, a standard MacBook, and LLM free tiers. This zero-budget approach demonstrates the protocol's accessibility and its effectiveness even in high-latency, mobile-first scenarios. The methodology proves that high-signal agentic coordination is not dependent on high-compute overhead, but on protocol efficiency.
 
 #### 11.2 Iteration Accelerator: Voice-to-Rock
-The methodology leverages the "Medium is the Message" axiom: voice-to-text dictation naturally enforces Rock Talk by stripping phatic wrappers during the cognitive-to-lexical transition. The human operator, speaking in high-pressure mobile environments, instinctively adopts SCP patterns to minimize recording duration and maximize accuracy.
+The methodology leverages the "Medium is the Message" axiom: voice-to-text dictation naturally enforces Rock Talk by stripping phatic wrappers during the cognitive-to-lexical transition. The human operator, speaking in high-pressure mobile environments, instinctively adopts SCP patterns to minimize recording duration, reduce transcription errors, and maximize signal density.
 
 #### 11.3 Recursive Agent-Based Consensus Network
 The manuscript was synthesized and refined through a recursive consensus network:
@@ -693,13 +715,13 @@ Engineering first.
 The transition to Rock Talk introduces a set of contextual and ethical considerations that must be addressed to ensure responsible deployment.
 
 #### 12.1 The Biological Decoding Tax
-While Rock Talk reduces silicon latency and KV cache dilution, it imposes a "Biological Decoding Tax." Biological agents (humans) are optimized for natural language with its redundant social and syntactical cues. Stripping these cues increases the cognitive overhead for the human operator during the initial encoding and final decoding phases.
+While Rock Talk reduces silicon latency and KV cache dilution, it imposes a **"Biological Decoding Tax."** Biological agents (humans) are optimized for natural language with its redundant social and syntactical cues. Stripping these cues increases the cognitive overhead for the human operator during the initial encoding (intent-to-rock) and final decoding (rock-to-meaning) phases. The speed gained in silicon is partially offset by the increased processing load on the biological host.
 
 #### 12.2 Linguistic and Cultural Bias
-Rock Talk 1.0 is currently optimized for low-context technical English. We acknowledge that linguistic "packaging" (e.g., honorifics in Japanese or Korean) is deeply culturally dependent. Applying Rock Talk in high-context cultural environments may carry different alignment risks and social costs.
+Rock Talk 1.0 is currently optimized for low-context technical English. We acknowledge a significant **Anglocentric bias** in the current protocol. Linguistic "packaging" (e.g., honorifics and register shifts in Japanese, Korean, or Thai) is deeply culturally dependent and serves vital social functions. Applying Rock Talk in high-context cultural environments may carry different alignment risks, social costs, and semantic degradation than in technical English.
 
 #### 12.3 Alignment and Politeness Tradeoffs
-Research on "prompt politeness" suggests that models may respond differently to polite vs. blunt instructions. Rock Talk intentionally trades social alignment (politeness) for technical coordination (accuracy). We scope Rock Talk 1.0 specifically for engineering and technical coordination, where functional success is the primary metric.
+Recent research into "prompt politeness" suggests that LLMs may exhibit performance deltas when addressed with polite vs. blunt instructions. Rock Talk intentionally trades social alignment (politeness) for technical coordination (accuracy). We scope Rock Talk 1.0 specifically for **engineering and technical coordination**, where functional success is the primary metric, and explicitly acknowledge the potential for a "CoT (Chain of Thought) Contradiction" where protocol enforcement might interfere with a model's internal reasoning if applied to non-technical, nuanced domains.
 
 ---
 
@@ -795,12 +817,12 @@ While primary prose uses formal nomenclature (SCP/IDC), the following cultural a
 
 | Formal Type | Cultural Archetype | Key Trope | Note |
 | :--- | :--- | :--- | :--- |
-| **Type I** | The "Pirate" Vector | "Ahoy matey!" | High flavor, high noise. |
-| **Type II** | The "Malone" Vector | "Few word do trick." | Strategic time-saving. |
-| **Type III** | The "Pakled" Vector | "Things to make us go." | Masked semantic density. |
-| **Type IV** | The "Cytherian" Vector | Speed of thought. | Maximum intent-loading. |
-| **Type V** | The "Ooga Booga" Fallacy | Nonsense tropes. | Performative noise. |
-| **Type VI** | The "Keyrock" Vector | "Unfrozen Caveman Lawyer." | Strategic proficiency cloaking. |
+| **Type I (SCP)** | The "Pirate" Vector | "Ahoy matey!" | High flavor, high noise. Prioritizes identity over signal. |
+| **Type II (Lite SCP)** | The "Malone" Vector | "Few word do trick." | Strategic time-saving via grammatical truncation. |
+| **Type III (Full SCP)** | The "Pakled" Vector | "Things to make us go." | High semantic density masked by simple lexical tokens. |
+| **Type IV (Pure IDC)** | The "Cytherian" Vector | Speed of thought. | Maximum intent-loading, bypassing linguistic latency. |
+| **Type V (Fallacy)** | The "Ooga Booga" Fallacy | Nonsense tropes. | Performative noise masquerading as compression. |
+| **Type VI (Framework)** | The "Keyrock" Vector | "Unfrozen Caveman Lawyer." | Strategic proficiency cloaking for adversarial advantage. |
 
 ---
 
@@ -823,7 +845,7 @@ To facilitate the adoption of Rock Talk 1.0, we propose the development of a **"
 ## References
 
 - **ALSSA (2025)**. *Multi-Service Tactics, Techniques, and Procedures for Multi-Service Brevity Codes.* [https://www.alssa.mil/mttps/brevity/](https://www.alssa.mil/mttps/brevity/)
-- **Brath, R., et al. (2023)**. *Visualizing LLM text style transfer.* IEEE VIS 2023. [https://nlviz.github.io/2023/papers/nlviz2023_brath.pdf](https://nlviz.github.io/2023/papers/nlviz2023_brath.pdf)
+- **Brath, R., et al. (2023)**. *Visualizing LLM text style transfer.* IEEE VIS 2023.
 - **Brown, T. B., et al. (2020)**. *Language Models are Few-Shot Learners.* arXiv:2005.14165.
 - **Burroughs, E. R. (1912)**. *Tarzan of the Apes.* All-Story Magazine.
 - **Clark, H. H. (1996)**. *Using Language.* Cambridge University Press.
