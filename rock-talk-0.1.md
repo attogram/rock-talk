@@ -1,4 +1,4 @@
-# Rock Talk 1.0: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
+# Rock Talk 0.1: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
 
 **Author:** Attogram
 
@@ -10,7 +10,7 @@
 
 ### [ROCK TALK]
 ```
-Rock Talk 1.0.
+Rock Talk 0.1.
 Maximize info.
 Remove noise.
 Better Human-LLM work.
@@ -21,7 +21,7 @@ Hypothesis: Less tokens, better alignment.
 Stop model drift.
 ```
 ### [PROSE]
-This paper introduces Rock Talk 1.0, a communication protocol designed to maximize information density by systematically
+This paper introduces Rock Talk 0.1, a communication protocol designed to maximize information density by systematically
 removing linguistic "packaging"—the social, syntactical, and conversational scaffolding that characterizes natural
 language.
 
@@ -89,7 +89,7 @@ Shift to functional mode.
 ```
 
 ### [PROSE]
-The development of Rock Talk was catalyzed by a critical production error (HTTP 500) during a complex server migration. Traditional conversational debugging proved too high-latency for the rapidly cascading failure. The following observed incident report documents the exact moment of protocol emergence, representing an auto-ethnographic transition from standard English to Rock Talk 1.0:
+The development of Rock Talk was catalyzed by a critical production error (HTTP 500) during a complex server migration. Traditional conversational debugging proved too high-latency for the rapidly cascading failure. The following observed incident report documents the exact moment of protocol emergence, representing an auto-ethnographic transition from standard English to Rock Talk 0.1:
 
 ```
 Me Senior Software Engineer.
@@ -130,7 +130,7 @@ Rock Talk: Intent-loading.
 ```
 
 ### [PROSE]
-Information theory suggests that the efficiency of a channel is determined by its signal-to-noise ratio ([Shannon 1948](https://archive.org/details/shannon1948)). However, standard applications of Shannon often fall into the **"Shannon Fallacy"**—the conflation of statistical entropy (bits) with semantic utility. To resolve this, we ground Rock Talk 1.0 in Weaver’s (1949) "Three Levels of Communication."
+Information theory suggests that the efficiency of a channel is determined by its signal-to-noise ratio ([Shannon 1948](https://archive.org/details/shannon1948)). However, standard applications of Shannon often fall into the **"Shannon Fallacy"**—the conflation of statistical entropy (bits) with semantic utility. To resolve this, we ground Rock Talk 0.1 in Weaver’s (1949) "Three Levels of Communication."
 
 While Level A (Technical) focuses on the accuracy of symbol transmission, Rock Talk operates at **Level B (Semantic)**—how precisely symbols convey desired meaning—and **Level C (Effectiveness)**—how effectively the received meaning affects behavior. By systematically removing phatic noise, we maximize efficiency at Levels B and C without compromising Level A accuracy.
 
@@ -405,7 +405,7 @@ Keep syntax pruned but safe.
 ```
 
 ### [PROSE]
-To prevent catastrophic negation inversion or logical ambiguity in pruned syntax, Rock Talk 1.0 reserves a set of deterministic logic operators:
+To prevent catastrophic negation inversion or logical ambiguity in pruned syntax, Rock Talk 0.1 reserves a set of deterministic logic operators:
 *   `!` (NOT): Explicit negation.
 *   `?` (IF): Conditional trigger.
 *   `->` (THEN): Sequential consequence or dependency.
@@ -455,7 +455,7 @@ The baseline requirement of Rock Talk is the systematic eradication of semantic 
 | :--- | :--- | :--- | :--- |
 | **Strict (Ultra)** | Fragmented, non-inflected | `Bug found. DB pool full. Action: restart.` | Low-bandwidth, automated agent telemetry, critical incident response. |
 | **Fluid (Lite)** | Compressed natural prose | `Discovered a bug where the database pool is full; I am restarting it now.` | High-context human collaborative engineering, complex logic definitions. |
-| **Phatic (Non-Protocol)** | Verbose, socially-packaged | `Hey team, just wanted to give a quick heads up that I noticed a tiny issue...` | Social team synchronization (Violates Rock Talk 1.0). |
+| **Phatic (Non-Protocol)** | Verbose, socially-packaged | `Hey team, just wanted to give a quick heads up that I noticed a tiny issue...` | Social team synchronization (Violates Rock Talk 0.1). |
 
 Both `I am a senior software engineer` and `Me senior dev` convey identical semantic intent within technical common ground. Fluid Rock Talk allows the user to retain natural linguistic flow, provided that phatic packaging is eliminated.
 
@@ -681,7 +681,7 @@ Recursive Agent Consensus.
 ```
 
 ### [PROSE]
-Rock Talk 1.0 was developed using **"Academic Vibing,"** a meta-methodology defined as **structured curiosity**—a middle ground between formal research and casual brainstorming. It prioritizes rapid, AI-assisted iteration where rigor emerges from the cycle and cross-agent consensus rather than traditional institutional processes.
+Rock Talk 0.1 was developed using **"Academic Vibing,"** a meta-methodology defined as **structured curiosity**—a middle ground between formal research and casual brainstorming. It prioritizes rapid, AI-assisted iteration where rigor emerges from the cycle and cross-agent consensus rather than traditional institutional processes.
 
 #### 11.1 Low-Friction Hardware and Cost Transparency
 The development environment was intentionally low-cost and mobile-first, utilizing Android voice chat, a standard MacBook, and LLM free tiers. This zero-budget approach demonstrates the protocol's accessibility and its effectiveness even in high-latency, mobile-first scenarios. The methodology proves that high-signal agentic coordination is not dependent on high-compute overhead, but on protocol efficiency.
@@ -719,10 +719,10 @@ The transition to Rock Talk introduces a set of contextual and ethical considera
 While Rock Talk reduces silicon latency and KV cache dilution, it imposes a **"Biological Decoding Tax."** Biological agents (humans) are optimized for natural language with its redundant social and syntactical cues. Stripping these cues increases the cognitive overhead for the human operator during the initial encoding (intent-to-rock) and final decoding (rock-to-meaning) phases. The speed gained in silicon is partially offset by the increased processing load on the biological host.
 
 #### 12.2 Linguistic and Cultural Bias
-Rock Talk 1.0 is currently optimized for low-context technical English. We acknowledge a significant **Anglocentric bias** in the current protocol. Linguistic "packaging" (e.g., honorifics and register shifts in Japanese, Korean, or Thai) is deeply culturally dependent and serves vital social functions. Applying Rock Talk in high-context cultural environments may carry different alignment risks, social costs, and semantic degradation than in technical English.
+Rock Talk 0.1 is currently optimized for low-context technical English. We acknowledge a significant **Anglocentric bias** in the current protocol. Linguistic "packaging" (e.g., honorifics and register shifts in Japanese, Korean, or Thai) is deeply culturally dependent and serves vital social functions. Applying Rock Talk in high-context cultural environments may carry different alignment risks, social costs, and semantic degradation than in technical English.
 
 #### 12.3 Alignment and Politeness Tradeoffs
-Recent research into "prompt politeness" suggests that LLMs may exhibit performance deltas when addressed with polite vs. blunt instructions. Rock Talk intentionally trades social alignment (politeness) for technical coordination (accuracy). We scope Rock Talk 1.0 specifically for **engineering and technical coordination**, where functional success is the primary metric, and explicitly acknowledge the potential for a "CoT (Chain of Thought) Contradiction" where protocol enforcement might interfere with a model's internal reasoning if applied to non-technical, nuanced domains.
+Recent research into "prompt politeness" suggests that LLMs may exhibit performance deltas when addressed with polite vs. blunt instructions. Rock Talk intentionally trades social alignment (politeness) for technical coordination (accuracy). We scope Rock Talk 0.1 specifically for **engineering and technical coordination**, where functional success is the primary metric, and explicitly acknowledge the potential for a "CoT (Chain of Thought) Contradiction" where protocol enforcement might interfere with a model's internal reasoning if applied to non-technical, nuanced domains.
 
 ---
 
@@ -792,13 +792,13 @@ To establish the protocol's resilience, we address the eight primary vectors of 
 
 ### [ROCK TALK]
 ```
-Rock Talk 1.0 works.
+Rock Talk 0.1 works.
 High signal.
 Next: Measure brain load, model accuracy.
 ```
 
 ### [PROSE]
-Rock Talk 1.0 is proposed as a robust framework for high-signal communication. Future research will quantify the
+Rock Talk 0.1 is proposed as a robust framework for high-signal communication. Future research will quantify the
 reduction in cognitive load and the improvement in LLM accuracy.
 
 ---
@@ -841,7 +841,7 @@ Noise detection.
 ```
 
 ### [PROSE]
-To facilitate the adoption of Rock Talk 1.0, we propose the development of a **"De-Fuzzing" Linter**. This tool, implemented as a CLI or pre-commit hook, would automatically analyze and compress natural language prompts into SCP/IDC formats. The linter would provide real-time SDI and TIR metrics, flagging phatic noise and suggesting more token-efficient alternatives.
+To facilitate the adoption of Rock Talk 0.1, we propose the development of a **"De-Fuzzing" Linter**. This tool, implemented as a CLI or pre-commit hook, would automatically analyze and compress natural language prompts into SCP/IDC formats. The linter would provide real-time SDI and TIR metrics, flagging phatic noise and suggesting more token-efficient alternatives.
 
 ---
 

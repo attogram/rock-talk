@@ -1,4 +1,4 @@
-# Rock Talk 1.0 — Citation Audit Log
+# Rock Talk 0.1 — Citation Audit Log
 
 **Auditor:** Claude Sonnet 4.6  
 **Date:** 2026-06-14  
