@@ -1,5 +1,5 @@
 # Rock Talk: High-Signal Semantic Compression for Human-AI Collaboration
-
+```
 Me Senior Software Engineer.
 Me work hard.
 Me trust smartrock.
@@ -19,14 +19,17 @@ Me curse at smartrock.
     Pretend like I'm a stupid caveman and just tell me.
 
 Rock talk is born.
-
-## Project Structure
+```
 
 ### Papers
-- papers/ - Main theoretical and protocol documentation.
-- papers/rock-talk.* - Core communication protocol.
-- papers/rock-train.* - Native Semantic Pre-training (NSP) blueprint.
-- papers/rock-culture.* - Sociocultural taxonomy of compression archetypes.
+
+- papers/rock-talk.* 
+- papers/rock-train.* 
+- papers/rock-culture.* 
+
+## Videos
+- [Kevin Malone, The Office](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick."
+- [The Pakleds, Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go."
 
 ### Extensions
 - examples/ - Worked examples and case studies.
