@@ -1,8 +1,8 @@
 # Rock Talk: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
 
-Version: 0.3 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-talk.0.3.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram See also:
-- [papers/rock-train.0.1.md](rock-train.0.1.md)
-- [papers/rock-culture.0.1.md](rock-culture.0.1.md)
+Version: 0.3 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-talk/rock-talk.0.3.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram See also:
+- [rock-training/rock-training.0.1.md](../rock-training/rock-training.0.1.md)
+- [rock-culture/rock-culture.0.1.md](../rock-culture/rock-culture.0.1.md)
 
 ## Abstract
 
@@ -39,10 +39,10 @@ Information theory suggests that the efficiency of a channel is determined by it
 ## 2.1 Formalizing Semantic Intent (I) and Metrics
 
 ### [ROCK TALK]
-Intent (I) = SPO triads + Constraints. Define H(I) procedure: 1. Break to Subject-Predicate-Object. 2. Filter technical parameters. 3. sum = I. Intent = Atomic facts. TIR = T / I. SDI = I / T. Target: Low TIR. High SDI. See [papers/rock-culture.0.1.md](rock-culture.0.1.md) for examples.
+Intent (I) = SPO triads + Constraints. Define H(I) procedure: 1. Break to Subject-Predicate-Object. 2. Filter technical parameters. 3. sum = I. Intent = Atomic facts. TIR = T / I. SDI = I / T. Target: Low TIR. High SDI. See [rock-culture/rock-culture.0.1.md](../rock-culture/rock-culture.0.1.md) for examples.
 
 ### [PROSE]
-To move beyond subjective evaluation, we operationalize Semantic Intent (I) as the sum of all distinct Subject-Predicate-Object (SPO) triads and critical technical parameters or constraints within a message. We define an Atomic Fact as the minimum unit of information that cannot be further decomposed without losing its functional utility in the given technical context. We define the H(I) Procedure for quantifying intent: 1. Decomposition: Break the message into its core SPO triads. 2. Constraint Extraction: Identify all non-redundant technical parameters (e.g., specific error codes, port numbers, flag settings, and explicit logic operators). 3. Disambiguation: In cases of elliptical or context- dependent language, I is calculated based on the intended SPO triads that a technically proficient agent would reconstruct from common ground. 4. Summation: I = sum(SPO triads) + sum(Constraints). We formalize the following metrics for measuring protocol efficiency: 1. Token-to-Intent Ratio (TIR): TIR = T / I. Target: Low TIR. 2. Semantic Density Index (SDI): SDI = I / T. Target: High SDI. For worked examples and archetype efficiency benchmarks, see [papers/rock- culture.0.1.md](rock-culture.0.1.md).
+To move beyond subjective evaluation, we operationalize Semantic Intent (I) as the sum of all distinct Subject-Predicate-Object (SPO) triads and critical technical parameters or constraints within a message. We define an Atomic Fact as the minimum unit of information that cannot be further decomposed without losing its functional utility in the given technical context. We define the H(I) Procedure for quantifying intent: 1. Decomposition: Break the message into its core SPO triads. 2. Constraint Extraction: Identify all non-redundant technical parameters (e.g., specific error codes, port numbers, flag settings, and explicit logic operators). 3. Disambiguation: In cases of elliptical or context- dependent language, I is calculated based on the intended SPO triads that a technically proficient agent would reconstruct from common ground. 4. Summation: I = sum(SPO triads) + sum(Constraints). We formalize the following metrics for measuring protocol efficiency: 1. Token-to-Intent Ratio (TIR): TIR = T / I. Target: Low TIR. 2. Semantic Density Index (SDI): SDI = I / T. Target: High SDI. For worked examples and archetype efficiency benchmarks, see [rock-culture/rock-culture.0.1.md](../rock-culture/rock-culture.0.1.md).
 
 ## 2.2 Addressing the "Shannon Fallacy"
 
@@ -66,7 +66,7 @@ Rock Talk finds its most robust real-world precedents in mission-critical domain
 Low entropy != Low IQ. Spectrum of signal. Flavor vs Data. See Rock Culture paper for taxonomy. SCP / IDC definitions. 7 formal categories. Archetypes: Pirate. Malone. Pakled. Cytherian. Ooga Booga. Keyrock. Burnham. [Attogram, 2026, Rock Culture].
 
 ### [PROSE]
-Low-entropy communication is frequently conflated with cognitive deficit due to pervasive cultural tropes. We identify a spectrum of signal quality, ranging from high-flavor/low-signal to low-word/high-signal. A comprehensive taxonomy of these patterns—including the "Malone," "Pakled," and "Burnham" vectors—is detailed in [papers/rock-culture.0.1.md](rock-culture.0.1.md). This sociocultural analysis formalizes the distinction between performative noise and functional high-density semantic loading.
+Low-entropy communication is frequently conflated with cognitive deficit due to pervasive cultural tropes. We identify a spectrum of signal quality, ranging from high-flavor/low-signal to low-word/high-signal. A comprehensive taxonomy of these patterns—including the "Malone," "Pakled," and "Burnham" vectors—is detailed in [rock-culture/rock-culture.0.1.md](../rock-culture/rock-culture.0.1.md). This sociocultural analysis formalizes the distinction between performative noise and functional high-density semantic loading.
 
 ## 5. The Rock Talk Protocol
 
@@ -180,7 +180,7 @@ Based on the success of the Claude Caveman skill, we propose extending these pro
 NSP Hypothesis. Rock-LLM. Train from t=0. Syntax-stripped corpus. Subject-Predicate-Object triads. Vocabulary collapse. 300%-400% context win. Emergent Alien Logic. Machine-native dialect. See Rock Train paper. [Attogram, 2026, Rock Train].
 
 ### [PROSE]
-We propose a radical evolution of the protocol: Native Semantic Pre-training (NSP), or the Rock-LLM Hypothesis. This involves training a Transformer model from initialization (t=0) on a text corpus systematically stripped of grammatical, phatic, and structural scaffolding. A detailed blueprint for this architectural paradigm shift is documented in [papers/rock-train.0.1.md](rock- train.0.1.md).
+We propose a radical evolution of the protocol: Native Semantic Pre-training (NSP), or the Rock-LLM Hypothesis. This involves training a Transformer model from initialization (t=0) on a text corpus systematically stripped of grammatical, phatic, and structural scaffolding. A detailed blueprint for this architectural paradigm shift is documented in [rock-training/rock-training.0.1.md](../rock-training/rock-training.0.1.md).
 
 ## 12. Meta-Methodology: Academic Vibing
 

@@ -1,8 +1,8 @@
 # Rock Talk: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
 
-Version: 0.3 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-talk.0.3.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram See also:
-- [papers/rock-train.0.1.md](rock-train.0.1.md)
-- [papers/rock-culture.0.1.md](rock-culture.0.1.md)
+Version: 0.3 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-talk/rock-talk.0.3.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram See also:
+- [rock-training/rock-training.0.1.md](../rock-training/rock-training.0.1.md)
+- [rock-culture/rock-culture.0.1.md](../rock-culture/rock-culture.0.1.md)
 
 ## Abstract
 
@@ -69,7 +69,7 @@ Intent (I) = SPO triads + Constraints.
 Define H(I) procedure: 1.
 Break to Subject-Predicate-Object. 2.
 Filter technical parameters. 3. sum = I. Intent = Atomic facts.
-TIR = T / I. SDI = I / T. Target: Low TIR. High SDI. See [papers/rock-culture.0.1.md](rock-culture.0.1.md) for examples.
+TIR = T / I. SDI = I / T. Target: Low TIR. High SDI. See [rock-culture/rock-culture.0.1.md](../rock-culture/rock-culture.0.1.md) for examples.
 
 ## 2.2 Addressing the "Shannon Fallacy"
 

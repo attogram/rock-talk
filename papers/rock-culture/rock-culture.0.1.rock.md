@@ -1,6 +1,6 @@
 # Rock Culture: A Sociocultural Taxonomy of Compressed Communication
 
-Version: 0.1 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock- culture.0.1.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram
+Version: 0.1 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-culture/rock-culture.0.1.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram
 
 ## Abstract
 

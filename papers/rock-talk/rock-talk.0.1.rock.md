@@ -1,6 +1,6 @@
 # Rock Talk 0.1: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
 
-Paper: https://github.com/attogram/rock-talk/blob/main/rock-talk-0.1.md
+Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-talk/rock-talk.0.1.md
 
 Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues
 

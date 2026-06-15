@@ -1,10 +1,10 @@
-# Rock Train: Native Semantic Pre-training (NSP) and the Rock-LLM Hypothesis
+# Rock Training: Native Semantic Pre-training (NSP) and the Rock-LLM Hypothesis
 
-Version: 0.1 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-train.0.1.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram
+Version: 0.1 (Draft) Date: June 15, 2026 Paper: https://github.com/attogram/rock-talk/blob/main/papers/rock-training/rock-training.0.1.md Contact: GitHub Issues - https://github.com/attogram/rock-talk/issues Repository: https://github.com/attogram/rock-talk Author: Attogram - https://github.com/attogram
 
 ## Abstract
 
-Rock Train.
+Rock Training.
 Native Semantic Pre-training (NSP). Rock-LLM Hypothesis.
 Train from t=0.
 Rock Talk syntax-stripped corpus.
