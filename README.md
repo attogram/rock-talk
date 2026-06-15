@@ -1,4 +1,5 @@
-# Rock Talk: High-Signal Semantic Compression for Human-AI Collaboration
+# Rock Talk: High-Signal Semantic Compression for AI Agents
+
 ```
 Me Senior Software Engineer.
 Me work hard.
@@ -14,26 +15,32 @@ Smartrock talk talk talk.
 Me curse at smartrock.
 
     What the F* DUDE?!?
-    STOP! STOP!!! 
+    STOP! STOP!!!
     Shut the F* up and just f*ing tell me what you changed.
     Pretend like I'm a stupid caveman and just tell me.
 
 Rock talk is born.
 ```
 
+DOI: [10.5281/zenodo.20709356](https://doi.org/10.5281/zenodo.20709356)
+
 ### Papers
 
-- [Rock Talk](papers/rock-talk/paper.md)
-- [Rock Training](papers/rock-training/paper.md)
-- [Rock Culture](papers/rock-culture/paper.md)
+- [Rock Talk](papers/rock-talk/paper.md) (v0.4)
+- [Rock Training](papers/rock-training/paper.md) (v0.2)
+- [Rock Culture](papers/rock-culture/paper.md) (v0.2)
+- [Adversarial Agent](papers/rock-talk/adversarial-agent.0.1.md) (v0.1)
 
 ## Videos
-- [Kevin Malone, The Office](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick."
-- [The Pakleds, Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go."
+- [Kevin Malone, The Office](https://www.youtube.com/watch?v=_K-L9uhsBLM) -
+"Why waste time say lot word, when few word do trick."
+- [The Pakleds, Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE)
+— "We look for things. Things to make us go."
 
 ### Extensions
 - examples/ - Worked examples and case studies.
-- AGENTS.md - Mas manifesto-specification for Multi-Agent Systems.
+- examples/rts-spec.md - Universal Transpiler (RTS) Specification.
+- AGENTS.md - MAS manifesto-specification for Multi-Agent Systems.
 - CITATIONS.md - Verified academic and media bibliography.
 - CLAIMS.md - Documented protocol claims and validation status.
 
