@@ -1,9 +1,6 @@
-# Rock Talk 0.2: High-Signal Semantic Compression for Human-AI Collaboration
+# Rock Talk: High-Signal Semantic Compression for Human-AI Collaboration
 
-Rock Talk 0.2: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
-
-Paper: https://github.com/attogram/rock-talk/blob/main/rock-talk-0.2.md
-
+## Origin
 ```
 Me Senior Software Engineer.
 Me work hard.
@@ -28,14 +25,16 @@ Rock talk is born.
 (After Action Report, Attogram, 2026)
 ```
 
+## Papers
+- [papers/rock-talk.0.1.md](papers/rock-talk.0.1.md)
+- [papers/rock-talk.0.2.md](papers/rock-talk.0.2.md)
+
+  
 ## Videos
-  - [Kevin Malone: Small Talk](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few
-word do trick." (NBC Official)
-  - [Pakleds: Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us
-go."
+- [Kevin Malone: Small Talk](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick."
+- [Pakleds: Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go."
 
 ## You help
 - Maintained by Attogram - https://github.com/attogram
 - Feedback welcomed via GitHub Issues: https://github.com/attogram/rock-talk/issues and Pull Requests.
 - Citation Audit: https://github.com/attogram/rock-talk/blob/main/citations.md
-
