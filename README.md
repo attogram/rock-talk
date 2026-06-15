@@ -26,10 +26,9 @@ Rock talk is born.
 ```
 
 ## Papers
-- [papers/rock-talk.0.1.md](papers/rock-talk.0.1.md)
-- [papers/rock-talk.0.2.md](papers/rock-talk.0.2.md)
+- [papers/rock-talk.0.2.md](papers/rock-talk.0.2.md) - Rock Talk 0.2: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
+- [papers/rock-talk.0.1.md](papers/rock-talk.0.1.md) - Rock Talk 0.1: A High-Signal Communication Protocol for Human-AI Alignment, LLM Token Efficiency, and Agentic Coordination
 
-  
 ## Videos
 - [Kevin Malone: Small Talk](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick."
 - [Pakleds: Star Trek TNG](https://www.youtube.com/watch?v=h7PZKzKPFfE) — "We look for things. Things to make us go."
