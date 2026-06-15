@@ -23,9 +23,9 @@ Rock talk is born.
 
 ### Papers
 
-- papers/rock-talk.* 
-- papers/rock-train.* 
-- papers/rock-culture.* 
+- [Rock Talk](papers/rock-talk/paper.md)
+- [Rock Training](papers/rock-training/paper.md)
+- [Rock Culture](papers/rock-culture/paper.md)
 
 ## Videos
 - [Kevin Malone, The Office](https://www.youtube.com/watch?v=_K-L9uhsBLM) - "Why waste time say lot word, when few word do trick."
