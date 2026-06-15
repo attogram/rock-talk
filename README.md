@@ -1,6 +1,4 @@
 # Rock Talk: High-Signal Semantic Compression for Human-AI Collaboration
-
-## Origin
 ```
 Me Senior Software Engineer.
 Me work hard.
@@ -21,8 +19,6 @@ Me curse at smartrock.
     Pretend like I'm a stupid caveman and just tell me.
 
 Rock talk is born.
-
-(After Action Report, Attogram, 2026)
 ```
 
 ## Papers
