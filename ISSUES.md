@@ -1,3 +1,39 @@
+K2 (#88): Native Semantic Pre-training (NSP) Blueprint II
+Status: [x] CLOSED
+
+K1 (#87): Native Semantic Pre-training (NSP) Blueprint I
+Status: [x] CLOSED
+
+J8 (#86): Peer review response and logical operators
+Status: [x] CLOSED
+
+J7 (#83): Social Media Titles and Weekend Sprint
+Status: [x] CLOSED
+
+J6 (#82): Session focus and signal-to-noise reflection
+Status: [x] CLOSED
+
+J5 (#81): Title definition and HN preparation
+Status: [x] CLOSED
+
+J4 (#80): Adversarial review and metrics refinement
+Status: [x] CLOSED
+
+J3 (#79): Peer review and CoT contradiction
+Status: [x] CLOSED
+
+J2 (#78): Duplicate header bug and v0.9 locking
+Status: [x] CLOSED
+
+J1 (#77): Plan for Academic Vibing and Zenodo
+Status: [x] CLOSED
+
+H4 (#75): Final citation audit and README refinement
+Status: [x] CLOSED
+
+H3 (#74): Mechanism hedging and negative use cases
+Status: [x] CLOSED
+
 H1 (#70): Release 0.1 Preparation
 Status: [x] CLOSED
 
