@@ -1,56 +1,51 @@
-# Operational Plan: Rock Talk 0.3 Evolution
+# Operational Plan: Rock Talk 0.5 — The Empirical Phase
 
 ## 1. Summary of Proposed Plan
 
-The next phase of the project shifts from conceptual framing to **operational rigor and empirical validation**. We will build the tooling described in the "Phase L" issues, conduct formal compression studies using the existing papers as a corpus, and address the "sycophancy trap" by integrating adversarial peer-review logic.
+The 0.5 phase transitions Rock Talk from a theoretical framework into a **rigorously tested and tool-supported protocol**. We will execute the 3-Arm Testing Architecture defined in `rock-talk.0.4.md`, develop the first functional prototype of the De-Fuzzing Linter, and initiate the Native Semantic Pre-training (NSP) corpus generation.
 
 ### Key Objectives:
-1. **Tooling**: Develop the Rock Talk Transpiler (RTS) specification.
-2. **Validation**: Execute the 3-Arm Testing Architecture (Token Efficiency, Attention Drift, Cascade Failures).
-3. **Refinement**: Integrate "Human as Transport Substrate" model to improve protocol resilience.
-4. **Academics**: Finalize Rock Training and Rock Culture papers for 0.1 release.
+1.  **Validation**: Execute formal benchmarks for Token Efficiency (Arm 1) and Attention Drift (Arm 2).
+2.  **Tooling**: Build the `rt-lint` CLI prototype for real-time SDI/TIR calculation.
+3.  **Expansion**: Spec out the NSP training corpus and multi-lingual adaptation strategies.
+4.  **Resilience**: Conduct "Format Collapse" tests to identify the limits of semantic compression.
 
 ---
 
 ## 2. Issues to Accept (Proposed for Immediate Execution)
 
-These issues represent clear, non-conflicting improvements to the protocol and repository structure:
+These issues represent the core work for the 0.5 cycle:
 
-- **#111 (RTS)**: Define the universal document → Rock Talk transpiler logic.
-- **#110 (Transport Substrate)**: Integrate the HTF (Human Transport Fidelity) metric into Section 2.1.
-- **#109 & #108 (Compression Studies)**: Conduct the canonical artifact stress tests.
-- **#107 (Image Standards)**: Apply the "Black Footer" attribution to all existing media assets.
-- **#105, #103, #102 (Cultural Landmarks)**: Update `rock-culture.0.1.md` with The Martian, Arrival, and the "Watney Shift" / "Nathan Axiom" archetypes.
-- **#101 (Global Pruning)**: Perform a repo-wide pass to enforce the 80-char limit and "no-fluff" prose.
-- **#97 (Adversarial Agent)**: Begin drafting the "Adversarial Agent" blueprint (Model A/B system).
+- **#113 (Arm 1: Token Efficiency)**: Implement the testing environment using 100 complex technical tasks.
+- **#114 (Arm 2: Attention Drift)**: Set up Softmax entropy visualization for needle-in-haystack tests.
+- **#116 (De-Fuzzing Linter)**: Develop a basic CLI that identifies phatic noise and calculates SDI.
+- **#118 (NSP Corpus)**: Generate the first syntax-stripped training dataset from the existing papers.
+- **#120 (Semantic Intent Calculator)**: Automate the SPO triad extraction process for TIR benchmarking.
 
 ---
 
 ## 3. Issues with Conflicting Views (Needs Human Vibe)
 
-These issues touch on the "soul" of the project vs. its "academic skin":
-
-- **#96 (The "Shut the F* Up" Factor)**:
-  - *Conflict*: Professional nomenclature (SCP/IDC) vs. raw, visceral developer origin story.
-  - *Need*: Does the project want to lean into the "angry engineer" persona for brand signal, or move toward pure academic neutrality to maximize institutional adoption?
-- **AV#6 (The CoT Contradiction)**:
-  - *Conflict*: Rock Talk claims "less is more," while LLM reasoning (CoT) proves "more is more."
-  - *Need*: How much should the protocol yield to the "computational scaffolding" requirement? Does Rock Talk become an *input/output* layer only, while leaving the *reasoning* layer verbose?
+- **#117 (Multi-lingual Adaptation)**:
+  - *Conflict*: Strict Rock Talk vs. Cultural Register Shifts.
+  - *Need*: Should the protocol adapt to Japanese/Korean honorific structures, or should it remain a "technical-only" dialect that bypasses these social layers entirely?
+- **#115 (Arm 3: Cascade Failures)**:
+  - *Conflict*: Measuring "Understanding" vs. "Output Similarity".
+  - *Need*: How do we verify that Sub-agent C truly "understood" the intent vs. just mimicking the compressed pattern?
 
 ---
 
 ## 4. Edge Cases
 
-- **Clipboard-Mediated Loss**: Transmitting dense Rock Talk through high-latency human interfaces (mobile apps, web UIs) often leads to truncation or "hallucinated reconstruction" by the human operator.
-- **Cross-Lingual SCP**: How do SPO triads manifest in non-SVO (Subject-Verb-Object) languages like Japanese or Korean?
-- **Sycophancy vs. Rigor**: Managing the "Helpfulness Bias" in agents (Jules included) when they are asked to review their own protocol. Integration of Issue #97 (Adversarial Agent) is the proposed fix.
-- **Token budget "Phase Transitions"**: Identifying the exact point where a 32K context window becomes "saturated" by phatic noise.
+- **Hallucinated Reconstruction**: Cases where high compression causes an LLM to "fill in the blanks" with incorrect technical assumptions.
+- **Linter Over-optimization**: The risk of the linter suggesting changes that technically increase SDI but break logical coherence.
+- **NSP Gradient Instability**: Technical risk that the syntax-stripped corpus leads to non-convergent training runs.
 
 ---
 
 ## 5. Next Steps
 
-1. Execute **#101** (Global Pruning) to stabilize the codebase.
-2. Draft the **#111** (RTS) technical spec in `examples/`.
-3. Update `papers/rock-culture/` with the new archetypes from **#102**.
-4. Set up the **#109** benchmarking environment.
+1.  Initialize the **#113** benchmarking suite in a new `benchmarks/` directory.
+2.  Draft the `rt-lint` logic in `examples/linter-prototype.py`.
+3.  Update **#118** with a sample of the syntax-stripped NSP corpus.
+4.  Prepare the 0.5 release notes.
