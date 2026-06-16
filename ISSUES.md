@@ -1,24 +1,35 @@
 # Rock Talk Project Issues
 
+## Phase N: Empirical Validation & Implementation (Target: 0.5)
+#121 N9 [open] Release 0.5 Preparation & Coordination
+#120 N8 [open] Semantic Intent (I) automatic calculator tool
+#119 N7 [open] Artifact Integrity / Format Collapse stress test execution
+#118 N6 [open] Native Semantic Pre-training (NSP) Corpus Generator
+#117 N5 [open] Multi-lingual register shift study (Japanese/Korean)
+#116 N4 [open] De-Fuzzing Linter (CLI prototype)
+#115 N3 [open] Cascade Failure study setup (Arm 3: Agentic Coordination)
+#114 N2 [open] Attention-weight visualization (Arm 2: Attention Drift)
+#113 N1 [open] Implement 3-Arm Testing Environment (Arm 1: Token Efficiency)
+
 ## Phase M: Meta-Context & Consolidation
-#112 M1 [open] Add context: all issues on this repo (Current Task)
+#112 M1 [complete pending human review] Add context: all issues on this repo (Current Task)
 
 ## Phase L: Protocol Refinement & Tooling
-#111 L17 [open] universal document → Rock Talk transpiler (RTS)
-#110 L16 [open] human as transport substrate / HTF metric
+#111 L17 [complete pending human review] universal document → Rock Talk transpiler (RTS)
+#110 L16 [complete pending human review] human as transport substrate / HTF metric
 #109 L15 [open] Compression Benchmarking Using Canonical Artifacts
 #108 L14 [open] Compressed Rock Scaling & Format Collapse Study
-#107 L13 [open] Image Artifact Black Footer & Fair Use Attribution
+#107 L13 [complete pending human review] Image Artifact Black Footer & Fair Use Attribution
 #106 L12 [open] kev deceptive intent (L12)
-#105 L11 [open] search for more cultural references (Agatha Christie, Iron Man 2, etc.)
+#105 L11 [complete pending human review] search for more cultural references (Agatha Christie, Iron Man 2, etc.)
 #104 L10 [open] kevin img
-#103 L9 [open] Appendix B: Audio-Visual Ground Truth Anchors
-#102 L8 [open] cultural landmarks: Martian (Watney Shift), Arrival (Heptapod B), Ex Machina (Nathan Axiom)
-#101 L7 [open] apply no-fluff and 80-char limit globally
-#100 L6 [open] split out rock-train and rock-culture papers
+#103 L9 [complete pending human review] Appendix B: Audio-Visual Ground Truth Anchors
+#102 L8 [complete pending human review] cultural landmarks: Martian (Watney Shift), Arrival (Heptapod B), Ex Machina (Nathan Axiom)
+#101 L7 [complete pending human review] apply no-fluff and 80-char limit globally
+#100 L6 [complete pending human review] split out rock-train and rock-culture papers
 #99 L5 [open] Update README for generic structure
-#97 L4 [open] Adversarial Agent paper concept (Truth-seeking over Helpfulness)
-#96 L3 [open] shut the f up
+#97 L4 [complete pending human review] Adversarial Agent paper concept (Truth-seeking over Helpfulness)
+#96 L3 [complete pending human review] shut the f up
 #95 L2 [open] Documentation architecture iteration
 #93 L1 [open] Initial 0.3 groundwork
 
