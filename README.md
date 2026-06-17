@@ -1,4 +1,4 @@
-# Rock Talk: High-Signal Semantic Compression for AI Agents
+# ROCK: Silicon Pidgin for Human-Agent Collaboration
 
 ```
 Me Senior Software Engineer.
