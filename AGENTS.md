@@ -11,8 +11,12 @@ You know rock-talk.0.3.md
 You discover more.
 
 <!-- ISSUE MANAGEMENT WORKFLOW -->
-GitHub Issues = Source of Truth.
-Directory: issues/[000-padded-number]-[Code]-[Tight-Summary]/
-File: [Longer-Descriptive-Title].md
-Root ISSUES.md = Table of Contents.
-Always sync local issues/ with GitHub state.
+[ROCK TALK]
+GitHub Issues = Truth.
+Sync: Local -> GitHub.
+Dir: issues/[Number]-[Code]-[Concise-Summary]/
+File: [Descriptive-Title].md
+TOC: ISSUES.md
+Update: ! External ? Outbox -> Link
+Review: ! Closed ? Open -> Pending
+[ROCK TALK]
