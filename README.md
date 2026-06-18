@@ -1,4 +1,4 @@
-# ROCK: A Pidgin for Human-Agent Collaboration
+# ROCK: Pidgin for Human-Agent Collaboration
 
 ```
 Me Senior Software Engineer.
