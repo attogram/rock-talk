@@ -1,8 +1,13 @@
 # Rock Talk Papers
 
+- [Rock Talk 0.5](rock-talk.0.5.md)
+- [Rock Talk 0.5 (Prose)](rock-talk.0.5.prose.md)
+- [Rock Talk 0.5 (Rock)](rock-talk.0.5.rock.md)
 - [Rock Talk 0.4](rock-talk.0.4.md)
 - [Rock Talk 0.4 (Prose)](rock-talk.0.4.prose.md)
 - [Rock Talk 0.4 (Rock)](rock-talk.0.4.rock.md)
+- [Adversarial Agent 0.2](adversarial-agent.0.2.md)
+- [Adversarial Agent 0.1](adversarial-agent.0.1.md)
 - [Rock Talk 0.3](rock-talk.0.3.md)
 - [Rock Talk 0.3 (Prose)](rock-talk.0.3.prose.md)
 - [Rock Talk 0.3 (Rock)](rock-talk.0.3.rock.md)

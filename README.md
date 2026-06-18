@@ -1,4 +1,4 @@
-# ROCK: Silicon Pidgin for Human-Agent Collaboration
+# ROCK: A Pidgin for Human-Agent Collaboration
 
 ```
 Me Senior Software Engineer.
@@ -26,10 +26,10 @@ DOI: [10.5281/zenodo.20709356](https://doi.org/10.5281/zenodo.20709356)
 
 ### Papers
 
-- [Rock Talk](papers/rock-talk/paper.md) (v0.4)
-- [Rock Training](papers/rock-training/paper.md) (v0.2)
-- [Rock Culture](papers/rock-culture/paper.md) (v0.2)
-- [Adversarial Agent](papers/rock-talk/adversarial-agent.0.1.md) (v0.1)
+- [Rock Talk](papers/rock-talk/paper.md) (v0.5)
+- [Rock Training](papers/rock-training/paper.md) (v0.3)
+- [Rock Culture](papers/rock-culture/paper.md) (v0.3)
+- [Adversarial Agent](papers/rock-talk/adversarial-agent.0.2.md) (v0.2)
 
 ## Videos
 - [Kevin Malone, The Office](https://www.youtube.com/watch?v=_K-L9uhsBLM) -
