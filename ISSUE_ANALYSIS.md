@@ -60,3 +60,27 @@ Based on this synthesis, the 0.5 phase focuses on **Rigor** and **Utility**:
 2.  **Empirical Validation**: Execute the 3-Arm Testing Architecture (H1-H6) to produce the first peer-reviewed performance metrics for Rock Talk.
 3.  **Tooling Deployment**: Release a prototype `rt-lint` utility to calculate Semantic Density Index (SDI) and Token-to-Intent Ratio (TIR) programmatically.
 4.  **Resilience Engineering**: Implement guards against "Format Collapse" and document strategies for high-density "Protocol State Transfer" across agent loops.
+
+## 4. Ecosystem Increment Strategy
+
+To advance the ecosystem to the next versioning tier, we must answer the following core research questions for each paper:
+
+### Rock Talk (v0.4 → v0.5)
+- **Linguistic Logic**: How do we formalize the "Refute Honorifics Protocol" (Issue #135) to ensure the SDI metric is culturally and register-aware?
+- **Empirical Baseline**: What are the definitive TIR/SDI results from the Arm 1 (Token Efficiency) benchmarks?
+- **Safety Limits**: At what precise SDI value does "Format Collapse" (Issue #145, H6) occur for different model architectures?
+
+### Rock Training (v0.2 → v0.3)
+- **Corpus Density**: What is the optimal SPO triad density for a Native Semantic Pre-training (NSP) dataset?
+- **Mechanism Check**: Does training on syntax-stripped corpora effectively eliminate the "Attention Drift" observed in natural language contexts?
+- **Vocabulary Stability**: How do we prevent "Vocabulary Collapse" in NSP models while maintaining high technical specificity?
+
+### Rock Culture (v0.2 → v0.3)
+- **Subculture Mapping**: How do "Fluid Mode" variations differ across specific technical domains (e.g., DevOps vs. Academic Vibing)?
+- **Accent Identification**: Can we programmatically map the "Agent Accent" (Issue #130) to specific archetypes on the Semantic Spectrum?
+- **Coordination Archetypes**: What new archetypes (e.g., "The Echo Chamber") emerge from multi-agent "Semantic Telephone" failures?
+
+### Adversarial Agent (v0.1 → v0.2)
+- **Sycophancy Detection**: How can we use the SDI metric to detect "Sycophancy Collapse" (Issue #144) in real-time agent loops?
+- **Validation Rigor**: Which "Hard Validation" prompt architectures yield the highest Error Capture Rate (ECR) in adversarial passes?
+- **State Transfer**: How does the Adversarial Agent maintain integrity during "Protocol State Transfer" (Issue #128) in long-running research sprints?
