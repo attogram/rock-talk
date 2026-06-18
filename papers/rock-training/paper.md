@@ -1,5 +1,8 @@
 # Rock Training Papers
 
+- [Rock Training 0.3](rock-training.0.3.md)
+- [Rock Training 0.3 (Prose)](rock-training.0.3.prose.md)
+- [Rock Training 0.3 (Rock)](rock-training.0.3.rock.md)
 - [Rock Training 0.2](rock-training.0.2.md)
 - [Rock Training 0.2 (Prose)](rock-training.0.2.prose.md)
 - [Rock Training 0.2 (Rock)](rock-training.0.2.rock.md)
